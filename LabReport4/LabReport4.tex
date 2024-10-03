@@ -3,20 +3,71 @@
 % PREAMBLE %
 
 %-----------------------------------------------%
-\documentclass[12pt, letterpaper]{article}
-\usepackage{graphicx}
-\title{Lab Report 4: Free Fall}
-\author{Abereni Opuiyo}
-\date{October 2nd, 2024}
+\documentclass[a4paper,12pt]{article}
 
+% Packages
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{setspace}
+\usepackage{titlesec}  % For title formatting
+
+% Header and Footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{Abereni Opuiyo}
+\fancyhead[C]{PHY121}
+\fancyhead[R]{\thepage}
+\fancyfoot[L]{Lab Report 4: Free Fall}
+\fancyfoot[R]{\thepage}
+\renewcommand{\footrulewidth}{0.1pt}% default is 0pt
+
+\geometry{margin=1.2in}
+\setstretch{1.5}
+
+% Title Formatting
+\titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{1em}{}
+
+
+% Cover Page
+\title{
+    \vspace{5cm} % Adjust vertical space
+    \includegraphics[width=0.55\textwidth]{dutchess-logo-blue.png} \\ % Add your logo here (change "logo.png" to the actual filename)
+    \vspace{1cm} % Adjust vertical space after the logo
+    \textbf{\Huge Lab Report 4: Free Fall} \\
+    \vspace{1cm} % Adjust vertical space
+    \large PHY121 \\
+    \vspace{0.5cm} % Adjust vertical space
+    \large	October, 3rd, 2024 
+}
+\author{Abereni Opuiyo}
+\date{}
 %-----------------------------------------------%
 
 % TITLE PAGE %
 
 %-----------------------------------------------%
 \begin{document}
-
 \maketitle
-We have now added a title, author and date to our first \LaTeX{} document!
+	\thispagestyle{plain}
+\newpage
+
+%-----------------------------------------------%
+
+% Table of Contents  %
+
+%-----------------------------------------------%
+% Start page numbering from the Table of Contents
+
+\setcounter{page}{1}  % Start counting from 1
+\tableofcontents
+\newpage
+%-----------------------------------------------%
+
+% Purpose  %
+
+%-----------------------------------------------%
+
 
 \end{document}
