@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1727979553.43529 "LabReport4.tex" "LabReport4.pdf" "LabReport4" 1727979555.66386 0
+["pdflatex"] 1727981303.49345 "LabReport4.tex" "LabReport4.pdf" "LabReport4" 1727981305.31938 0
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1710106625 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1710106625 5472554 f7861620179a71a79d4bd86251f559d0 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1710106625 1004 54797486969f23fa377b128694d548df ""
@@ -36,9 +36,9 @@
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/titlesec/titlesec.sty" 1710106625 48766 0b93839be28e9744a24c45075c75b2e2 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/web2c/texmf.cnf" 1727658683.37357 41652 e14926ab86fde7902cad99d9eeaa5ca5 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1710106625 8221728 6ad968c4cf6ec94c671719186a970bed ""
-  "LabReport4.aux" 1727979555.31026 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "LabReport4.tex" 1727979551.94917 1723 1583ee74ea429b355964778876af8050 ""
-  "LabReport4.toc" 1727979555.28003 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "LabReport4.aux" 1727981305.13609 191 d2bf838b29f701abb255d055b13f9ef6 "pdflatex"
+  "LabReport4.tex" 1727981300.24816 2304 4909ed280e1b92c1b39fba154bbdaa94 ""
+  "LabReport4.toc" 1727981305.14311 77 6f9c2b2199510183d418eb11c7166ebb "pdflatex"
   "dutchess-logo-blue.png" 1727977067.84478 11580 da0260fd27bfee2eeaabfb583d83fa34 ""
   (generated)
   "LabReport4.aux"

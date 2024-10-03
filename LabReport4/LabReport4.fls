@@ -80,6 +80,7 @@ INPUT /usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/public/cm/
 INPUT ./LabReport4.toc
 INPUT ./LabReport4.toc
 INPUT LabReport4.toc
+INPUT /usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 OUTPUT LabReport4.toc
 INPUT LabReport4.aux
 INPUT /usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
