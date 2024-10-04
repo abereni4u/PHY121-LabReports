@@ -1,0 +1,85 @@
+
+%-----------------------------------------------%
+
+% PREAMBLE %
+
+%-----------------------------------------------%
+\documentclass[a4paper,12pt]{article}
+
+% Packages
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{setspace}
+\usepackage{titlesec}  % For title formatting
+\usepackage{tocloft}
+\usepackage{xcolor}
+\usepackage{enumitem}
+
+
+% Header and Footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{Abereni Opuiyo}
+\fancyhead[C]{PHY121}
+\fancyhead[R]{\thepage}
+\fancyfoot[L]{Final Project}
+\fancyfoot[R]{\thepage}
+\geometry{margin=1.2in}
+\setstretch{1.5}
+\renewcommand{\footrulewidth}{0.1pt}% default is 0pt
+
+% Table of Contents
+\renewcommand{\contentsname}{Table of Contents}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+
+
+
+% Title Formatting
+\titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{1em}{}
+
+
+% Cover Page
+\title{
+    \vspace{5cm} % Adjust vertical space
+    \includegraphics[width=0.55\textwidth]{dutchess-logo-blue.png} \\ % Add your logo here (change "logo.png" to the actual filename)
+    \vspace{1cm} % Adjust vertical space after the logo
+    \textbf{\Huge Final Project} \\
+    \vspace{1cm} % Adjust vertical space
+    \large PHY121 \\
+    \vspace{0.5cm} % Adjust vertical space
+    \large	October, 4th, 2024 \\ 
+		\vspace{.5cm}
+		\large Professor Renee Lathrop 
+}
+\author{Abereni Opuiyo}
+\date{}
+%-----------------------------------------------%
+
+% TITLE PAGE %
+
+%-----------------------------------------------%
+\begin{document}
+\maketitle
+	\thispagestyle{plain}
+\newpage
+
+%-----------------------------------------------%
+
+% Table of Contents  %
+
+%-----------------------------------------------%
+% Start page numbering from the Table of Contents
+
+\setcounter{secnumdepth}{0}
+\setcounter{page}{1}  % Start counting from 1
+\tableofcontents
+\thispagestyle{fancy}
+\newpage
+
+%-----------------------------------------------%
+
+
+
+\end{document}
