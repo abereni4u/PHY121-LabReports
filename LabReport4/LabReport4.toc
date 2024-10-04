@@ -1,2 +1,13 @@
 \contentsline {section}{Purpose}{2}{}%
 \contentsline {section}{Theory}{2}{}%
+\contentsline {section}{Procedure}{3}{}%
+\contentsline {subsection}{Free Fall}{3}{}%
+\contentsline {subsubsection}{Setup}{3}{}%
+\contentsline {subsubsection}{Measure Times \& Find Acceleration}{3}{}%
+\contentsline {subsection}{Inclined Plane}{3}{}%
+\contentsline {subsubsection}{Setup}{3}{}%
+\contentsline {subsubsection}{Starting at the Top}{3}{}%
+\contentsline {subsubsection}{Starting at the Bottom}{4}{}%
+\contentsline {section}{Calculations \& Graphs}{4}{}%
+\contentsline {section}{Questions}{4}{}%
+\contentsline {section}{Conclusion}{4}{}%

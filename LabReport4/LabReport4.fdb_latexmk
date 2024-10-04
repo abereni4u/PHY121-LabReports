@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1727988445.72424 "LabReport4.tex" "LabReport4.pdf" "LabReport4" 1727988448.45689 0
+["pdflatex"] 1728083050.85207 "LabReport4.tex" "LabReport4.pdf" "LabReport4" 1728083054.01979 0
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1710106625 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1710106625 5472554 f7861620179a71a79d4bd86251f559d0 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1710106625 1004 54797486969f23fa377b128694d548df ""
@@ -32,6 +32,7 @@
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/amsmath/amstext.sty" 1710106625 2444 0d0c1ee65478277e8015d65b86983da2 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/base/article.cls" 1710106625 20144 147463a6a579f4597269ef9565205cfe ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/base/size12.clo" 1710106625 8449 f07039d8e4e89f21078d9b5137579bfc ""
+  "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/enumitem/enumitem.sty" 1710106625 51697 f8f08183cd2080d9d18a41432d651dfb ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty" 1710106625 13886 d1306dcf79a944f6988e688c1785f9ce ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty" 1710106625 18450 88279bf67c81e69f8e3f1c1bad1a26c5 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/geometry/geometry.sty" 1710106625 41601 9cf6c5257b1bc7af01a58859749dd37a ""
@@ -51,9 +52,9 @@
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1710106625 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/web2c/texmf.cnf" 1727658683.37357 41652 e14926ab86fde7902cad99d9eeaa5ca5 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1710106625 8221728 6ad968c4cf6ec94c671719186a970bed ""
-  "LabReport4.aux" 1727988447.92342 355 b7a0de794ccf276c0cc90a62a30f7709 "pdflatex"
-  "LabReport4.tex" 1727988444.86282 4200 bdaa7e495727ebacdc8ca8a596b33447 ""
-  "LabReport4.toc" 1727988447.92555 77 6f9c2b2199510183d418eb11c7166ebb "pdflatex"
+  "LabReport4.aux" 1728083053.51431 1424 bc742e149b5e7d48938bdf67c3f1a7d4 "pdflatex"
+  "LabReport4.tex" 1728083050.115 8304 eac21e4f45ec84cdb22cc76615379d0e ""
+  "LabReport4.toc" 1728083053.51704 623 e466d01650e799c232e3d132dc904d66 "pdflatex"
   "dutchess-logo-blue.png" 1727977067.84478 11580 da0260fd27bfee2eeaabfb583d83fa34 ""
   "figure1_inclineplane.jpg" 1727988052.6093 267372 119eeac98aa65b79be778a3133cf1c6a ""
   (generated)

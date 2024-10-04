@@ -56,6 +56,8 @@ INPUT /usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/graphics-c
 INPUT /usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT /usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/graphics/mathcolor.ltx
 INPUT /usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/graphics/mathcolor.ltx
+INPUT /usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/enumitem/enumitem.sty
 INPUT /usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT ./LabReport4.aux
@@ -108,6 +110,7 @@ INPUT ./figure1_inclineplane.jpg
 INPUT ./figure1_inclineplane.jpg
 INPUT ./figure1_inclineplane.jpg
 INPUT ./figure1_inclineplane.jpg
+INPUT /usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT LabReport4.aux
 INPUT /usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
