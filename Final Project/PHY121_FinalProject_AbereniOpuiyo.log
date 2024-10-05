@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.17)  4 OCT 2024 22:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.17)  4 OCT 2024 23:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -316,6 +316,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [1]
+<U1P1S.png, id=14, 760.64175pt x 297.7524pt>
+File: U1P1S.png Graphic file (type png)
+<use U1P1S.png>
+Package pdftex.def Info: U1P1S.png  used on input line 124.
+(pdftex.def)             Requested size: 339.24956pt x 132.79698pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -323,25 +329,39 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2{/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}] (./PHY121_FinalProject_AbereniOpuiyo.aux)
+[2{/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./U1P1S.png>]
+<U1P2S.jpg, id=22, 3348.51pt x 1618.045pt>
+File: U1P2S.jpg Graphic file (type jpg)
+<use U1P2S.jpg>
+Package pdftex.def Info: U1P2S.jpg  used on input line 137.
+(pdftex.def)             Requested size: 339.24956pt x 163.91257pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3 <./U1P2S.jpg>] (./PHY121_FinalProject_AbereniOpuiyo.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4309 strings out of 474116
- 67193 string characters out of 5734122
- 1929187 words of memory out of 5000000
- 26631 multiletter control sequences out of 15000+600000
- 566997 words of font info for 66 fonts, out of 8000000 for 9000
+ 4339 strings out of 474116
+ 67668 string characters out of 5734122
+ 1930187 words of memory out of 5000000
+ 26660 multiletter control sequences out of 15000+600000
+ 567344 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,316b,245s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on PHY121_FinalProject_AbereniOpuiyo.pdf (3 pages, 60916 bytes).
+ 57i,11n,65p,315b,245s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on PHY121_FinalProject_AbereniOpuiyo.pdf (4 pages, 582453 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
+ 49 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

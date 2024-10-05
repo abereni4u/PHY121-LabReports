@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1728095468.22371 "PHY121_FinalProject_AbereniOpuiyo.tex" "PHY121_FinalProject_AbereniOpuiyo.pdf" "PHY121_FinalProject_AbereniOpuiyo" 1728095471.2246 0
+["pdflatex"] 1728098549.46478 "PHY121_FinalProject_AbereniOpuiyo.tex" "PHY121_FinalProject_AbereniOpuiyo.pdf" "PHY121_FinalProject_AbereniOpuiyo" 1728098554.62258 0
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1710106625 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1710106625 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1710106625 5472554 f7861620179a71a79d4bd86251f559d0 ""
@@ -23,9 +23,11 @@
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1710106625 1124 6c73e740cf17375f03eec0ee63599741 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1710106625 1116 933a60c408fc0a863a92debe84b2d294 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1710106625 1120 8b7d695260f3cff42e636090a8002094 ""
+  "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/public/cm/cmti12.tfm" 1710106625 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1710106625 32080 340ef9bf63678554ee606688e7b5339d ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1710106625 36741 fa121aac0049305630cf160b86157ee4 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1710106625 32722 d7379af29a190c3f453aba36302ff5a9 ""
+  "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1710106625 36118 fad905eba93cff5bce1e185fe980a177 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb" 1710106625 136101 f533469f523533d38317ab5729d00c8a ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1710106625 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/generic/iftex/iftex.sty" 1710106625 7237 bdd120a32c8fdb4b433cf9ca2e7cd98a ""
@@ -59,9 +61,11 @@
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/xcolor/xcolor.sty" 1710106625 55487 80a65caedd3722f4c20a14a69e785d8f ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/web2c/texmf.cnf" 1727658683.37357 41652 e14926ab86fde7902cad99d9eeaa5ca5 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1710106625 8221728 6ad968c4cf6ec94c671719186a970bed ""
-  "PHY121_FinalProject_AbereniOpuiyo.aux" 1728095470.8912 286 74b9dfb8273300e5dae726d58fc8e001 "pdflatex"
-  "PHY121_FinalProject_AbereniOpuiyo.tex" 1728095466.30319 3089 9a3a8cf529c4087c81b10f746d5eea7c ""
-  "PHY121_FinalProject_AbereniOpuiyo.toc" 1728095470.89287 131 51e2c154bbb99f5ff477f8697425499e "pdflatex"
+  "PHY121_FinalProject_AbereniOpuiyo.aux" 1728098554.30866 547 168b83051d1ad1f6df4bee55f65fcaf0 "pdflatex"
+  "PHY121_FinalProject_AbereniOpuiyo.tex" 1728098548.06184 3610 aff273758c7469587216634b8e0a47dd ""
+  "PHY121_FinalProject_AbereniOpuiyo.toc" 1728098554.31072 269 a533e79daf948fc1c1706986c664971f "pdflatex"
+  "U1P1S.png" 1728097314.27462 394362 27bd129d74585b7c0e4da38537008b87 ""
+  "U1P2S.jpg" 1728098508.79907 275218 9bfce7542c903348fcf6cdf53a18ce87 ""
   "dutchess-logo-blue.png" 1728084513 11580 da0260fd27bfee2eeaabfb583d83fa34 ""
   (generated)
   "PHY121_FinalProject_AbereniOpuiyo.aux"
