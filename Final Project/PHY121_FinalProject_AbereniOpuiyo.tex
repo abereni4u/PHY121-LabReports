@@ -7,6 +7,8 @@
 \documentclass[a4paper,12pt]{article}
 
 % Packages
+\usepackage{textcomp}
+\usepackage{gensymb}
 \usepackage{graphicx}
 \usepackage{amsmath}
 \usepackage{geometry}
@@ -24,10 +26,14 @@
 \fancyhead[L]{Abereni Opuiyo}
 \fancyhead[C]{PHY121}
 \fancyhead[R]{\thepage}
-\fancyfoot[L]{Final Project}
-\fancyfoot[R]{\thepage}
+\fancyfoot[L]{Final Project: Physics Illustrated in "Hancock"}
+\fancyfoot[R]{\nouppercase{\rightmark}}
 \geometry{margin=1.2in}
 \setstretch{1.5}
+
+
+\newcommand*{\justifyheading}{\raggedleft}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
 \renewcommand{\footrulewidth}{0.1pt}% default is 0pt
 
 % Table of Contents
@@ -37,15 +43,25 @@
 
 
 % Title Formatting
-\titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{1em}{}
 
+\titleformat{\section}
+	{\normalfont\huge\bfseries\justifyheading}
+	{\thesection}
+	{1em}{}
+	
+
+\titleformat{\subsection}
+	{\normalfont\Large\bfseries}
+	{\thesubsection}
+	{1em}{}
+	[{\titlerule[1.8pt]}]
 
 % Cover Page
 \title{
     \vspace{5cm} % Adjust vertical space
     \includegraphics[width=0.55\textwidth]{dutchess-logo-blue.png} \\ % Add your logo here (change "logo.png" to the actual filename)
     \vspace{1cm} % Adjust vertical space after the logo
-    \textbf{\Huge Final Project} \\
+    \textbf{\Huge Final Project: Physics Illustrated in "Hancock"} \\
     \vspace{1cm} % Adjust vertical space
     \large PHY121 \\
     \vspace{0.5cm} % Adjust vertical space
@@ -79,6 +95,27 @@
 \newpage
 
 %-----------------------------------------------%
+\section{Unit 1}
+
+\vspace{-0.5cm}
+\singlespacing
+
+\subsection{Scene Analysis}
+
+\textbf{Duration}: 25:40 - 27:55
+
+\vspace{0.3cm}
+\noindent\textbf{Summary:} \par
+On the first day of trying to reform his public image, the superhero Hancock loses his temper to an 10 year old child and throws them a couple hundred meters into the air. After a couple seconds, Hancock catches them right before they touch the ground. \par
+
+
+\vspace{0.3cm}
+\noindent\textbf{Concepts Demonstrated} \par
+I think this scene covers many aspects of kinematics well, including projectile motion, acceleration due to gravity, and free falling bodies. 
+
+\subsection{Problem 1}
+
+If Hancock throws the child at an angle of 30\degree\ and an initial velocity of $60\ {m/s}$, how long does it take for the child to reach their maximum height?
 
 
 
