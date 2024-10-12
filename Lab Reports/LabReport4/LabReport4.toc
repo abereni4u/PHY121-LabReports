@@ -1,30 +1,30 @@
-\contentsline {section}{Purpose}{3}{}%
-\contentsline {section}{Theory}{3}{}%
-\contentsline {section}{Procedure}{4}{}%
-\contentsline {subsection}{Free Fall}{4}{}%
-\contentsline {subsubsection}{Setup}{4}{}%
-\contentsline {subsubsection}{Measure Times \& Find Acceleration}{4}{}%
-\contentsline {subsection}{Inclined Plane}{4}{}%
-\contentsline {subsubsection}{Setup}{4}{}%
-\contentsline {subsubsection}{Starting at the Top}{4}{}%
-\contentsline {subsubsection}{Starting at the Bottom}{5}{}%
-\contentsline {section}{Calculations \& Graphs}{5}{}%
-\contentsline {subsection}{Average Value Formula}{5}{}%
-\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {average acceleration of free fall trials}}}{5}{}%
-\contentsline {subsection}{Standard Deviation Formula}{5}{}%
-\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {std of free fall trials}}}{6}{}%
-\contentsline {subsection}{Relative Error Formula}{6}{}%
-\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {acceleration of free fall trial 1}}}{6}{}%
-\contentsline {subsection}{Free Fall}{6}{}%
-\contentsline {subsubsection}{Trial 1}{6}{}%
-\contentsline {subsubsection}{Trials 1-6}{7}{}%
-\contentsline {subsection}{Inclined Plane}{7}{}%
-\contentsline {subsubsection}{Plane Angle}{7}{}%
-\contentsline {subsubsection}{Acceleration Vector on Incline Plane}{8}{}%
-\contentsline {subsubsection}{Starting From The Top - Trial 1}{8}{}%
-\contentsline {subsubsection}{Starting From The Top - Trials 1 - 4}{8}{}%
-\contentsline {subsubsection}{Starting From The Bottom - Trial 1}{9}{}%
-\contentsline {subsubsection}{Starting From The Bottom - Trials 1 - 4}{9}{}%
-\contentsline {subsubsection}{Incline Plane Averages - Relative Error}{9}{}%
-\contentsline {section}{Questions}{10}{}%
-\contentsline {section}{Conclusion}{11}{}%
+\contentsline {section}{Purpose}{2}{}%
+\contentsline {section}{Theory}{2}{}%
+\contentsline {section}{Procedure}{3}{}%
+\contentsline {subsection}{Free Fall}{3}{}%
+\contentsline {subsubsection}{Setup}{3}{}%
+\contentsline {subsubsection}{Measure Times \& Find Acceleration}{3}{}%
+\contentsline {subsection}{Inclined Plane}{3}{}%
+\contentsline {subsubsection}{Setup}{3}{}%
+\contentsline {subsubsection}{Starting at the Top}{3}{}%
+\contentsline {subsubsection}{Starting at the Bottom}{4}{}%
+\contentsline {section}{Calculations \& Graphs}{4}{}%
+\contentsline {subsection}{Average Value Formula}{4}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {average acceleration of free fall trials}}}{4}{}%
+\contentsline {subsection}{Standard Deviation Formula}{4}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {std of free fall trials}}}{5}{}%
+\contentsline {subsection}{Relative Error Formula}{5}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {acceleration of free fall trial 1}}}{5}{}%
+\contentsline {subsection}{Free Fall}{5}{}%
+\contentsline {subsubsection}{Trial 1}{5}{}%
+\contentsline {subsubsection}{Trials 1-6}{6}{}%
+\contentsline {subsection}{Inclined Plane}{6}{}%
+\contentsline {subsubsection}{Plane Angle}{6}{}%
+\contentsline {subsubsection}{Acceleration Vector on Incline Plane}{7}{}%
+\contentsline {subsubsection}{Starting From The Top - Trial 1}{7}{}%
+\contentsline {subsubsection}{Starting From The Top - Trials 1 - 4}{7}{}%
+\contentsline {subsubsection}{Starting From The Bottom - Trial 1}{8}{}%
+\contentsline {subsubsection}{Starting From The Bottom - Trials 1 - 4}{8}{}%
+\contentsline {subsubsection}{Incline Plane Averages - Relative Error}{8}{}%
+\contentsline {section}{Questions}{9}{}%
+\contentsline {section}{Conclusion}{10}{}%
