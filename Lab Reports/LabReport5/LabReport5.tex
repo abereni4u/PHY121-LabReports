@@ -1,0 +1,132 @@
+%-----------------------------------------------%
+
+% PREAMBLE %
+
+%-----------------------------------------------%
+\documentclass[a4paper,12pt]{article}
+
+% Packages
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage{setspace}
+\usepackage{titlesec}  % For title formatting
+\usepackage[titles]{tocloft}
+\usepackage{pgfplots}
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{graphicx, float}
+\graphicspath{{images/}}
+
+
+% Header and Footer
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{Abereni Opuiyo}
+\fancyhead[C]{PHY121}
+\fancyhead[R]{\thepage}
+\fancyfoot[L]{Lab Report 5: Projectile Motion}
+\fancyfoot[R]{\thepage}
+\geometry{margin=1.2in}
+\setstretch{1.5}
+\renewcommand{\footrulewidth}{0.1pt}% default is 0pt
+
+% Table of Contents
+\renewcommand{\contentsname}{Table of Contents}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+\renewcommand{\tocloftpagestyle}{fancy}
+
+% Title Formatting
+\titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{1em}{}
+
+% Cover Page
+\title{
+    \vspace{5cm} % Adjust vertical space
+    \includegraphics[width=0.55\textwidth]{dutchess-logo-blue.png} \\ % Logo Here 
+    \vspace{1cm} % Adjust vertical space after the logo
+    \textbf{\Huge Lab Report 5: Projectile Motion} \\
+    \vspace{1cm} % Adjust vertical space
+    \large PHY121 \\
+    \vspace{0.5cm} % Adjust vertical space
+    \large	October, 6th, 2024 \\ 
+		\vspace{.5cm}
+		\large Professor R. Lathrop | Professor T. Zito
+}
+\author{Abereni Opuiyo}
+\date{}
+%-----------------------------------------------%
+
+% TITLE PAGE %
+
+%-----------------------------------------------%
+\begin{document}
+\maketitle
+	\thispagestyle{empty}
+\newpage
+
+%-----------------------------------------------%
+
+% Table of Contents  %
+
+%-----------------------------------------------%
+% Start page numbering from the Table of Contents
+
+\setcounter{secnumdepth}{0}
+\setcounter{page}{1}  % Start counting from 1
+\setlength\cftparskip{-5pt}
+\setlength\cftbeforesecskip{9pt}
+%\renewcommand{\cftaftertoctitle}{\vspace{-100pt}}
+\tableofcontents
+\newpage
+
+%-----------------------------------------------%
+
+% Purpose  %
+
+%-----------------------------------------------%
+\input{Purpose}
+%-----------------------------------------------%
+
+% Theory  %
+
+%-----------------------------------------------%
+\input{Theory}
+%-----------------------------------------------%
+
+% Procedure  %
+
+%-----------------------------------------------%
+
+\input{Procedure}
+
+%-----------------------------------------------%
+
+		% Calculations & Graph   %
+
+%-----------------------------------------------%
+
+\input{CalculationsGraphs}
+
+%-----------------------------------------------%
+
+% Questions  %
+
+%-----------------------------------------------%
+
+\input{Questions}
+
+%-----------------------------------------------%
+
+		% Conclusion %
+
+%-----------------------------------------------%
+
+\input{Conclusion}
+
+\end{document}
+
+
+
