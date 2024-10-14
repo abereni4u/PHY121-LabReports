@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1728716496.29929 "LabReport4.tex" "LabReport4.pdf" "LabReport4" 1728716504.98995 0
+["pdflatex"] 1728884153.3875 "LabReport4.tex" "LabReport4.pdf" "LabReport4" 1728884161.49678 2
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1710106625 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1710106625 5472554 f7861620179a71a79d4bd86251f559d0 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1710106625 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -193,10 +193,10 @@
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/web2c/texmf.cnf" 1727658683.37357 41652 e14926ab86fde7902cad99d9eeaa5ca5 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1710106625 8221728 6ad968c4cf6ec94c671719186a970bed ""
   "CalculationsGraphs.tex" 1728716495.86866 6169 6d74ae8f1495b5c1dc69e8a0ebc17c60 ""
-  "Conclusion.tex" 1728712712.11473 54 c3652884db50f0dc6fc913dea799f467 ""
-  "LabReport4.aux" 1728716504.5592 4969 cd3e5ebb928b57a41297644a73f6729f "pdflatex"
-  "LabReport4.tex" 1728716265.64562 2969 1fa179f2b5b955b1c1ad92abc357d1c9 ""
-  "LabReport4.toc" 1728716504.56423 1845 3af9e4494ebbb7d4311e6a958a7c3c8e "pdflatex"
+  "Conclusion.tex" 1728884151.4035 3038 7b4dd02acc6bff81239f326826af8222 ""
+  "LabReport4.aux" 1728884161.08025 4969 cd3e5ebb928b57a41297644a73f6729f "pdflatex"
+  "LabReport4.tex" 1728716539.1886 2969 1fa179f2b5b955b1c1ad92abc357d1c9 ""
+  "LabReport4.toc" 1728884161.08402 1845 3af9e4494ebbb7d4311e6a958a7c3c8e "pdflatex"
   "Procedure.tex" 1728712396.41453 2347 fe714af402dc28d699098a0e475e917d ""
   "Purpose.tex" 1728712231.90199 300 2544e03563078afba3847a36724cf34d ""
   "Questions.tex" 1728716446.02788 3203 e57713bff1284b753f2a86f001163b97 ""
