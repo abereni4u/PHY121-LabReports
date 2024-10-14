@@ -1,18 +1,13 @@
 \contentsline {section}{Purpose}{2}{}%
 \contentsline {section}{Theory}{2}{}%
 \contentsline {section}{Procedure}{3}{}%
-\contentsline {subsection}{Free Fall}{3}{}%
-\contentsline {subsubsection}{Setup}{3}{}%
-\contentsline {subsubsection}{Measure Times \& Find Acceleration}{3}{}%
-\contentsline {subsection}{Inclined Plane}{3}{}%
-\contentsline {subsubsection}{Setup}{3}{}%
-\contentsline {subsubsection}{Starting at the Top}{3}{}%
-\contentsline {subsubsection}{Starting at the Bottom}{4}{}%
+\contentsline {subsection}{Horizontal Gun}{3}{}%
+\contentsline {subsection}{Inclined Gun}{3}{}%
 \contentsline {section}{Calculations \& Graphs}{4}{}%
 \contentsline {subsection}{Average Value Formula}{4}{}%
 \contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {average acceleration of free fall trials}}}{4}{}%
 \contentsline {subsection}{Standard Deviation Formula}{4}{}%
-\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {std of free fall trials}}}{5}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {std of free fall trials}}}{4}{}%
 \contentsline {subsection}{Relative Error Formula}{5}{}%
 \contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {acceleration of free fall trial 1}}}{5}{}%
 \contentsline {subsection}{Free Fall}{5}{}%
@@ -26,5 +21,4 @@
 \contentsline {subsubsection}{Starting From The Bottom - Trial 1}{8}{}%
 \contentsline {subsubsection}{Starting From The Bottom - Trials 1 - 4}{8}{}%
 \contentsline {subsubsection}{Incline Plane Averages - Relative Error}{8}{}%
-\contentsline {section}{Questions}{9}{}%
-\contentsline {section}{Conclusion}{10}{}%
+\contentsline {section}{Conclusion}{9}{}%
