@@ -4,21 +4,23 @@
 \contentsline {subsection}{Horizontal Gun}{3}{}%
 \contentsline {subsection}{Inclined Gun}{3}{}%
 \contentsline {section}{Calculations \& Graphs}{4}{}%
-\contentsline {subsection}{Average Value Formula}{4}{}%
-\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {average acceleration of free fall trials}}}{4}{}%
-\contentsline {subsection}{Standard Deviation Formula}{4}{}%
-\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {std of free fall trials}}}{4}{}%
-\contentsline {subsection}{Relative Error Formula}{5}{}%
-\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {acceleration of free fall trial 1}}}{5}{}%
-\contentsline {subsection}{Free Fall}{5}{}%
-\contentsline {subsubsection}{Trial 1}{5}{}%
-\contentsline {subsubsection}{Trials 1-6}{6}{}%
-\contentsline {subsection}{Inclined Plane}{6}{}%
-\contentsline {subsubsection}{Plane Angle}{6}{}%
-\contentsline {subsubsection}{Acceleration Vector on Incline Plane}{7}{}%
-\contentsline {subsubsection}{Starting From The Top - Trial 1}{7}{}%
-\contentsline {subsubsection}{Starting From The Top - Trials 1 - 4}{7}{}%
-\contentsline {subsubsection}{Starting From The Bottom - Trial 1}{8}{}%
-\contentsline {subsubsection}{Starting From The Bottom - Trials 1 - 4}{8}{}%
-\contentsline {subsubsection}{Incline Plane Averages - Relative Error}{8}{}%
+\contentsline {subsection}{Equations of Kinematics For Vertical \& Horizontal Motion}{4}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {hang time and inital velocity of horizontal launch}}}{4}{}%
+\contentsline {subsection}{Equations for Vertical \& Horizontal Components of Initial Velocity }{5}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {inclined gun at 40 degrees}}}{5}{}%
+\contentsline {subsection}{Average Value Formula}{5}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {average distance of horizontal ball launch}}}{5}{}%
+\contentsline {subsection}{Standard Deviation Formula}{6}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {std horizontal ball launches}}}{6}{}%
+\contentsline {subsection}{Relative Error Formula}{6}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {inclined launch at 40 degrees - measured vs calculations}}}{6}{}%
+\contentsline {subsection}{Horizontal Launch}{7}{}%
+\contentsline {subsubsection}{Trials}{7}{}%
+\contentsline {subsubsection}{Calculations}{7}{}%
+\contentsline {subsection}{Inclined Launch at $\boldsymbol {40^\circ }$}{7}{}%
+\contentsline {subsubsection}{Calculations}{7}{}%
+\contentsline {subsubsection}{Trials}{8}{}%
+\contentsline {subsection}{Inclined Launch at $\boldsymbol {55^\circ }$}{8}{}%
+\contentsline {subsubsection}{Calculations}{8}{}%
+\contentsline {subsubsection}{Trials}{8}{}%
 \contentsline {section}{Conclusion}{9}{}%
