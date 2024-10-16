@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1729022410.08954 "LabReport5.tex" "LabReport5.pdf" "LabReport5" 1729022413.36446 0
+["pdflatex"] 1729051054.41369 "LabReport5.tex" "LabReport5.pdf" "LabReport5" 1729051057.6662 0
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1710106625 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1710106625 5472554 f7861620179a71a79d4bd86251f559d0 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1710106625 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -203,11 +203,11 @@
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/web2c/texmf.cnf" 1727658683.37357 41652 e14926ab86fde7902cad99d9eeaa5ca5 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1710106625 8221728 6ad968c4cf6ec94c671719186a970bed ""
   "CalculationsGraphs.tex" 1729022403.16612 8061 a028ec482aedfe0f132b4380c8dd29e7 ""
-  "Conclusion.tex" 1728884946.43533 56 41b7aa2691a7e9ffdd25bcfa55ac657e ""
-  "LabReport5.aux" 1729022412.91323 4794 ccac087f166e750004e7aa2f7c9292bb "pdflatex"
+  "Conclusion.tex" 1729051052.61013 3016 a37e58a55072e3cee18fbecc12a36044 ""
+  "LabReport5.aux" 1729051057.1487 4794 ccac087f166e750004e7aa2f7c9292bb "pdflatex"
   "LabReport5.tex" 1729018484.06812 3107 e7d00ee1b1e25c75f656a98561319c0d ""
-  "LabReport5.toc" 1729022412.91605 1828 ce1a27763b4c6ae8dad2c50f831e573f "pdflatex"
-  "Procedure.tex" 1728886742.14337 1160 e38e844088031653cb25bfd5a51bd3ea ""
+  "LabReport5.toc" 1729051057.15176 1828 ce1a27763b4c6ae8dad2c50f831e573f "pdflatex"
+  "Procedure.tex" 1729024857.98721 1167 2385cd9bff7b1aac0d43ebb5331b3d8d ""
   "Purpose.tex" 1728884808.15888 338 6b3b18c79a8709cf6100d8f3a3b2c81a ""
   "Theory.tex" 1728945811.19454 1770 54ad92ef1e0d8b4c554872b200d22319 ""
   "images/2DMotion.jpg" 1728939753.80448 448926 fe64eda00dbb790c9de4ff15b4561c3e ""
