@@ -1,0 +1,27 @@
+\contentsline {section}{Purpose}{2}{}%
+\contentsline {section}{Theory}{2}{}%
+\contentsline {section}{Procedure}{3}{}%
+\contentsline {subsection}{Horizontal Gun}{3}{}%
+\contentsline {subsection}{Inclined Gun}{3}{}%
+\contentsline {section}{Calculations \& Graphs}{4}{}%
+\contentsline {subsection}{Equations of Kinematics For Vertical \& Horizontal Motion}{4}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {hang time and inital velocity of horizontal launch}}}{4}{}%
+\contentsline {subsection}{Equations for Vertical \& Horizontal Components of Initial Velocity }{5}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {inclined gun at 40 degrees}}}{5}{}%
+\contentsline {subsection}{Average Value Formula}{5}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {average distance of horizontal ball launch}}}{5}{}%
+\contentsline {subsection}{Standard Deviation Formula}{6}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {std horizontal ball launches}}}{6}{}%
+\contentsline {subsection}{Relative Error Formula}{6}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {inclined launch at 40 degrees - measured vs calculations}}}{6}{}%
+\contentsline {subsection}{Horizontal Launch}{7}{}%
+\contentsline {subsubsection}{Trials}{7}{}%
+\contentsline {subsubsection}{Calculations}{7}{}%
+\contentsline {subsection}{Inclined Launch at $\boldsymbol {40^\circ }$}{7}{}%
+\contentsline {subsubsection}{Calculations}{7}{}%
+\contentsline {subsubsection}{Trials}{8}{}%
+\contentsline {subsection}{Inclined Launch at $\boldsymbol {55^\circ }$}{8}{}%
+\contentsline {subsubsection}{Calculations}{8}{}%
+\contentsline {subsubsection}{Trials}{8}{}%
+\contentsline {section}{Questions}{9}{}%
+\contentsline {section}{Conclusion}{10}{}%

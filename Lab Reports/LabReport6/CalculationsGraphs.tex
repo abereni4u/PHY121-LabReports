@@ -1,0 +1,266 @@
+
+\section{Calculations \& Graphs}
+
+\vspace{-0.5cm}
+\singlespacing
+
+%------- KINEMATICS EQUATIONS --------%
+
+\subsection{Equations of Kinematics For Vertical \& Horizontal Motion} 
+
+\begin{align}
+	y &= V\!o_yt + \frac{1}{2}a_yt^2 \label{eq:YMotion} \\
+	x &= V\!o_xt \label{eq:XMotion}
+\end{align}
+
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{hang time and inital velocity of horizontal launch}}}
+
+{\centering
+\text{\textbf{Knowns:}}
+\begin{align*}
+	y &= \boldsymbol{-0.276\,m} \\
+	V\!o_y &= \boldsymbol{0\,m/s} \\
+	a_y &= \boldsymbol{-9.8\,m/s^2} \\
+	x &= \boldsymbol{1.231\,m}
+\end{align*}
+
+\text{\textbf{Calculating Hang Time:}}
+\begin{align*}
+	y &= V\!o_yt + \frac{1}{2}a_yt^2 \\
+	-0.276 &= (0)(t) + \frac{1}{2}(-9.8)t^2 \\
+	-0.276 &= -4.9t^2 \\
+	0.05\overline{632} &= t^2 \\
+	\sqrt{0.05\overline{632}} &= t \\ 
+	t &= \boxed{0.2373\,s}
+\end{align*}
+
+\text{\textbf{Calculating Initial Velocity:}}
+\begin{align*}
+	x &= V\!o_xt \\ 
+	1.231 &= (V\!o_x)(.2373) \\
+	V\!o_x &= \boxed{5.187\,m/s}
+\end{align*}}
+
+\newpage
+%------- INCLINED MOTION --------%
+
+\subsection{Equations for Vertical \& Horizontal Components of Initial Velocity } 
+
+\begin{align}
+	V\!o_y &= V\!osin(\theta) \label{eq:YVO} \\
+	V\!o_x &= V\!ocos(\theta) \label{eq:XVO} 
+\end{align}
+
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{inclined gun at 40 degrees}}}
+
+{\centering
+\textbf{Knowns:}
+\begin{align*}
+	V\!o &= \boldsymbol{5.187\,m/s}
+\end{align*}
+
+\textbf{Calculating Vertical Initial Velocity:}
+\begin{align*}
+	V\!o_y &= V\!osin(\theta) \\ 
+	&= (5.187)(sin(40^\circ)) \\
+	V\!o_y &= \boxed{3.334\,m/s}
+\end{align*}
+
+\textbf{Calculating Horizontal Initial Velocity:} 
+\begin{align*}
+	V\!o_x &= V\!ocos(\theta) \\ 
+	&= (5.187)(cos(40^\circ)) \\
+	V\!o_x &= \boxed{3.973\,m/s}
+\end{align*}}
+
+%------- INCLINED MOTION --------%
+
+%------- AVERAGE VALUE --------%
+\subsection{Average Value Formula} 
+
+\begin{align*}
+		\overline{a} = \frac{sum\,of\,values}{total\, \#\,of\,values} 
+\end{align*}
+
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{average distance of horizontal ball launch}}}
+
+\begin{align*}
+	\overline{a} & = \frac{1.331 + 1.279 + 1.228 + 1.2 + 1.118}{5} \\
+							 &= \boxed{1.231\thinspace m}
+\end{align*}
+%------- AVERAGE VALUE --------%
+
+%------- STANDARD DEVIATION --------%
+\subsection{Standard Deviation Formula}
+
+\begin{align*}
+		\sigma &= \sqrt{\frac{\Sigma(x_i -\overline{a})^2}{N}} \\
+		 &= \sqrt{\frac{SS}{N}} \\ \\
+		\textbf{N} &:\, \text{Total number of values} \\
+		\overline{\textbf{a}} &:\, \text{Average value} \\
+		\textbf{x\textsubscript{i}} &:\, \text{Each value from the data set} \\
+		\textbf{SS} &:\, \text{Sum of squares} 
+\end{align*}
+
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{std horizontal ball launches}}}
+
+\begin{align*}
+	\sigma &= \sqrt{\frac{(1.331-\overline{a})^2 + ... + (1.118-\overline{a})^2}{5}} \\
+		 &= \sqrt{\frac{0.0260428}{5}} \\
+		 &= \boxed{0.07217\thinspace m}
+\end{align*}
+%------- STANDARD DEVIATION --------%
+
+%------- RELATIVE ERROR --------%
+\subsection{Relative Error Formula}
+
+\begin{align*}
+	RE &= \left| {\frac{V_A-V_E}{V_E}} \right|\: \text{x}\: 100\% \\ \\
+	\boldsymbol{V_A} &:\, \text{Actual value observed} \\
+	\boldsymbol{V_E} &:\, \text{Expected value} 
+\end{align*}
+
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{inclined launch at 40 degrees -  measured vs calculations}}}
+
+\begin{align*}
+	RE &= \left| {\frac{2.925-2.704}{2.704}} \right|\: \text{x}\: 100\% \\
+			&= \boxed{8.157\%} 
+\end{align*}
+%------- RELATIVE ERROR --------%
+
+\subsection{Horizontal Launch}
+
+\subsubsection{Trials}
+%----HORIZONTAL LAUNCH-----%
+\begin{table}[H]
+\centering
+\begin{tabular}{cc}
+\textbf{Trials} & \textbf{Distances (m)} \\ \hline
+1 & 1.331 \\
+2 & 1.279 \\
+3 & 1.228 \\
+4 & 1.2 \\
+5 & 1.118 \\ \hline
+\textbf{Average (m)} & 1.231 \\
+\textbf{Standard Deviation (m)} & 0.07217
+\end{tabular}
+\caption{Horizontal Launch Trials}
+\label{tab:HLt}
+\end{table}
+
+%----HORIZONTAL LAUNCH CALCS-----%
+\subsubsection{Calculations}
+
+\begin{table}[H]
+\centering
+\begin{threeparttable}
+\begin{tabular}{cccccc}
+	\textbf{X} & $\boldsymbol{x}\tnote{!}$ & $\boldsymbol{V\!o_x}$ & $\boldsymbol{V_x}$ & $\boldsymbol{a_x}$ & $\boldsymbol{t}$ \\ \hline
+ & $1.231\,m$ & $5.18\,m/s$ & $5.187\,m/s$ & $0\,m/s^2$ & $0.237\,s$ \\
+\multicolumn{1}{l}{} & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} \\
+\textbf{Y} & $\boldsymbol{y}\tnote{!!} $ & $\boldsymbol{V\!o_y}$ & $\boldsymbol{V_y}$ & $\boldsymbol{a_y}$ &  \\ \hline
+ & $-0.276\,m$ & $0\,m/s$ & $-2.322\,m/s$ & $-9.80\,m/s^2$ &
+\end{tabular}
+\begin{tablenotes}\footnotesize
+	\item[!] Average distance of horizontal launch trials
+	\item[!!] Height of gun to ground
+\end{tablenotes}	
+\end{threeparttable}
+\caption{Horizontal Launch Calculations}
+\label{tab:HLc}
+\end{table}
+%----HORIZONTAL LAUNCH CALCS-----%
+
+\subsection{Inclined Launch at $\boldsymbol{40^\circ}$}
+
+%----INCLINE LAUNCH 40-----%
+
+\subsubsection{Calculations}
+
+\begin{table}[H]
+\centering
+\begin{threeparttable}
+\begin{tabular}{clcccc}
+$\boldsymbol{V}\tnote{!}$ & $\boldsymbol{\theta}$ &  &  &  &  \\ \hline
+$5.187\,m/s$ & $40^\circ$ &  &  &  &  \\
+\multicolumn{1}{l}{} &  & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} \\
+\textbf{X} & \multicolumn{1}{c}{$\boldsymbol{x}$} & $\boldsymbol{V\!o_x}$ & $\boldsymbol{V_x}$ & $\boldsymbol{a_x}$ & $\boldsymbol{t}$ \\ \hline
+ & \multicolumn{1}{c}{$2.704\,m$} & $3.973\,m/s$ & $3.973\,m/s$ & $0\,m/s^2$ & $0.680\,s$ \\
+\multicolumn{1}{l}{} &  & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} \\
+\textbf{Y} & \multicolumn{1}{c}{$\boldsymbol{y}$} & $\boldsymbol{V\!o_y}$ & $\boldsymbol{V_y}$ & $\boldsymbol{a_y}$ &  \\ \hline
+ & \multicolumn{1}{c}{$-1.05\,m$} & $3.334\,m/s$ & $0\,m/s$ & $-9.80\,m/s^2$ & 
+\end{tabular}
+\begin{tablenotes}\footnotesize
+	\item[!] Taken from horizontal launch trials since gun compression was the same. 
+\end{tablenotes}	
+\end{threeparttable}
+\caption{Inclined Launch at $40^\circ$ Calculations}
+\label{tab:IL40c}
+\end{table}
+
+\subsubsection{Trials}
+	
+\begin{table}[H]
+\centering
+\begin{tabular}{ccc}
+\textbf{Trials} & \textbf{Distances (m)} & \textbf{Relative Error (\%)} \\ \hline
+1 & 2.925 & 8.157 \\
+2 & 3.054 & 12.92 \\
+3 & 2.87 & 6.123 \\
+4 & 2.927 & 10.81 \\
+5 & 2.734 & 3.683 \\ \hline
+\textbf{Average (m)} & 2.902 &  \\
+\textbf{Standard Deviation (m)} & 0.1034 & 
+\end{tabular}
+\caption{Inclined Launch at $40^\circ$ Trials}
+\label{tab:IL40t}
+\end{table}
+
+%----INCLINE LAUNCH 40-----%
+
+%----INCLINE LAUNCH 55-----%
+\subsection{Inclined Launch at $\boldsymbol{55^\circ}$}
+
+\subsubsection{Calculations}
+
+\begin{table}[H]
+\centering
+\begin{threeparttable}
+\begin{tabular}{cccccc}
+$\boldsymbol{V}\tnote{!}$ & $\boldsymbol{\theta}$ &  &  &  &  \\ \hline
+$5.187\,m/s$ & $55^\circ$ &  &  &  &  \\
+ &  &  &  &  &  \\
+\textbf{X} & $\boldsymbol{x}$ & $\boldsymbol{V\!o_x}$ & $\boldsymbol{V_x}$ & $\boldsymbol{a_x}$ & $\boldsymbol{t}$ \\ \hline
+ & $2.580\,m$ & $2.975\,m/s$ & $3.975\,m/s$ & $0\,m/s^2$ & $0.867\,s$ \\
+ &  &  &  &  &  \\
+\textbf{Y} & $\boldsymbol{y}$ & $\boldsymbol{V\!o_y}$ & $\boldsymbol{V_y}$ & $\boldsymbol{a_y}$ &  \\ \hline
+ & $-1.05\,m$ & $4.249\,m/s$ & $0\,m/s$ & $-9.80\,m/s^2$ & 
+\end{tabular}
+\begin{tablenotes}\footnotesize
+	\item[!] Taken from horizontal launch trials since gun compression was the same. 
+\end{tablenotes}	
+\end{threeparttable}
+\caption{Inclined Launch at $55^\circ$ Calculations}
+\label{tab:IL55c}
+\end{table}
+
+\subsubsection{Trials}
+
+\begin{table}[H]
+\centering
+\begin{tabular}{ccc}
+\textbf{Trials} & \textbf{Distances (m)} & \textbf{Relative Error (\%)} \\ \hline
+1 & 2.748 & 6.5 \\
+2 & 2.52 & 2.324 \\
+3 & 2.723 & 5.523 \\
+4 & 2.542 & 1.475 \\
+5 & 2.733 & 5.914 \\ \hline
+\textbf{Average (m)} & 2.653 &  \\
+\textbf{Standard Deviation (m)} & 0.1001 & 
+\end{tabular}
+\caption{Inclined Launch at $55^\circ$ Trials}
+\label{tab:IL55t}
+\end{table}
+%----INCLINE LAUNCH 55-----%
+\newpage
+
