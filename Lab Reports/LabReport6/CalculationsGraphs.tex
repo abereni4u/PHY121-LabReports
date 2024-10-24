@@ -4,89 +4,105 @@
 \vspace{-0.5cm}
 \singlespacing
 
-%------- KINEMATICS EQUATIONS --------%
+%------- Force --------%
 
-\subsection{Equations of Kinematics For Vertical \& Horizontal Motion} 
+\subsection{Force \& Acceleration} 
 
-\begin{align}
-	y &= V\!o_yt + \frac{1}{2}a_yt^2 \label{eq:YMotion} \\
-	x &= V\!o_xt \label{eq:XMotion}
-\end{align}
+{\centering
+\begin{equation}
+	F = ma 
+	\label{eq:NetForce}
+\end{equation}
+\begin{equation}
+	a = \frac{F}{m} 
+	\label{eq:CalculatedAcc}
+\end{equation}
+\begin{align*}
+	\boldsymbol{F} &: \text{Force of object} \\
+	\boldsymbol{m} &: \text{mass of object} \\
+	\boldsymbol{a} &: \text{acceleration of object}
+\end{align*}}
 
-\subsubsection{Sample Calculation \\ {\normalfont \small\textit{hang time and inital velocity of horizontal launch}}}
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{Force of hanging mass at 10\,grams}}}
 
 {\centering
 \text{\textbf{Knowns:}}
 \begin{align*}
-	y &= \boldsymbol{-0.276\,m} \\
-	V\!o_y &= \boldsymbol{0\,m/s} \\
-	a_y &= \boldsymbol{-9.8\,m/s^2} \\
-	x &= \boldsymbol{1.231\,m}
+	m &= \boldsymbol{.01\,\text{\textbf{kg}}} \\
+	a &= \boldsymbol{9.8\,\text{\textbf{m/s}}^2}
 \end{align*}
 
-\text{\textbf{Calculating Hang Time:}}
+\text{\textbf{Calculating Force of Hanging Mass:}}
 \begin{align*}
-	y &= V\!o_yt + \frac{1}{2}a_yt^2 \\
-	-0.276 &= (0)(t) + \frac{1}{2}(-9.8)t^2 \\
-	-0.276 &= -4.9t^2 \\
-	0.05\overline{632} &= t^2 \\
-	\sqrt{0.05\overline{632}} &= t \\ 
-	t &= \boxed{0.2373\,s}
-\end{align*}
-
-\text{\textbf{Calculating Initial Velocity:}}
-\begin{align*}
-	x &= V\!o_xt \\ 
-	1.231 &= (V\!o_x)(.2373) \\
-	V\!o_x &= \boxed{5.187\,m/s}
+	F &= ma \\
+	&= (.01)(9.8) \\
+	F &= \boxed{0.098\,\text{N}}
 \end{align*}}
 
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{Acceleration of glider when hanging mass at 10 grams}}}
+
+{\centering
+\text{\textbf{Knowns:}}
+\begin{align*}
+	F &= \boldsymbol{0.098\,\text{\textbf{N}}} \\
+	m &= \boldsymbol{0.3409\,\text{\textbf{kg}}}
+\end{align*}
+
+\text{\textbf{Calculating Expected Acceleration of Glider:}}
+\begin{align*}
+	a &= \frac{F}{m} \\
+	&= \frac{0.098}{0.3409} \\
+	a &= \boxed{0.2874\,\text{m/s}^2}
+\end{align*}}
+
+
 \newpage
-%------- INCLINED MOTION --------%
+%------- ACCELERATION BETWEEN TWO POINTS WITH INITIAL VELOCITY CLOSE TO ZERO--------%
 
-\subsection{Equations for Vertical \& Horizontal Components of Initial Velocity } 
+\subsection{Acceleration Between Two Points with Initial Velocity Close to Zero} 
 
-\begin{align}
-	V\!o_y &= V\!osin(\theta) \label{eq:YVO} \\
-	V\!o_x &= V\!ocos(\theta) \label{eq:XVO} 
-\end{align}
+{\centering
+\begin{equation}
+	a = \frac{2\Delta{x}}{t^2} 
+	\label{eq:MeasuredAcc}
+\end{equation}
+\begin{align*}
+	\boldsymbol{\Delta{x}} &: \text{Distance between photogates} \\
+\boldsymbol{t} &: \text{average time between photogates}
+\end{align*}}
 
-\subsubsection{Sample Calculation \\ {\normalfont \small\textit{inclined gun at 40 degrees}}}
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{Measured acceleration of glider with hanging mass at 10 grams}}}
 
 {\centering
 \textbf{Knowns:}
 \begin{align*}
-	V\!o &= \boldsymbol{5.187\,m/s}
+	\Delta{x} &= \boldsymbol{0.669\,\text{\textbf{m}}} \\
+	t &= \boldsymbol{2.058\,\text{\textbf{s}}}
 \end{align*}
 
-\textbf{Calculating Vertical Initial Velocity:}
+\textbf{Calculating Measured Acceleration of Glider:}
 \begin{align*}
-	V\!o_y &= V\!osin(\theta) \\ 
-	&= (5.187)(sin(40^\circ)) \\
-	V\!o_y &= \boxed{3.334\,m/s}
-\end{align*}
-
-\textbf{Calculating Horizontal Initial Velocity:} 
-\begin{align*}
-	V\!o_x &= V\!ocos(\theta) \\ 
-	&= (5.187)(cos(40^\circ)) \\
-	V\!o_x &= \boxed{3.973\,m/s}
+	a &= \frac{2\Delta{x}}{t^2} \\
+	&= \frac{(2)(0.669)}{(2.058)^2} \\
+	a &= \boxed{0.3156\,\text{m/s}^2}
 \end{align*}}
 
-%------- INCLINED MOTION --------%
+%------- ACCELERATION BETWEEN TWO POINTS --------%
 
 %------- AVERAGE VALUE --------%
 \subsection{Average Value Formula} 
 
 \begin{align*}
-		\overline{a} = \frac{sum\,of\,values}{total\, \#\,of\,values} 
+	\overline{a} = \frac{\text{sum of values}}{\text{total \# of values}} 
 \end{align*}
 
-\subsubsection{Sample Calculation \\ {\normalfont \small\textit{average distance of horizontal ball launch}}}
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{average time between photogates of glider with hanging mass at 10 grams }}}
+
 
 \begin{align*}
-	\overline{a} & = \frac{1.331 + 1.279 + 1.228 + 1.2 + 1.118}{5} \\
-							 &= \boxed{1.231\thinspace m}
+	\overline{a}&=\frac{\text{sum of values}}{\text{total \# of values}} \\ \\
+							&= \frac{2.043+2.067+2.067}{3} \\ \\
+	\overline{a}&= \boxed{2.059\,\text{s}}
 \end{align*}
 %------- AVERAGE VALUE --------%
 
@@ -102,12 +118,12 @@
 		\textbf{SS} &:\, \text{Sum of squares} 
 \end{align*}
 
-\subsubsection{Sample Calculation \\ {\normalfont \small\textit{std horizontal ball launches}}}
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{std of photogate times with hanging mass at 10 grams }}}
 
 \begin{align*}
-	\sigma &= \sqrt{\frac{(1.331-\overline{a})^2 + ... + (1.118-\overline{a})^2}{5}} \\
-		 &= \sqrt{\frac{0.0260428}{5}} \\
-		 &= \boxed{0.07217\thinspace m}
+	\sigma &= \sqrt{\frac{(2.043-\overline{a})^2 + ... + (2.067-\overline{a})^2}{3}} \\
+		 &= \sqrt{\frac{0.000384}{3}} \\
+		 &= \boxed{0.01131\, \text{s}}
 \end{align*}
 %------- STANDARD DEVIATION --------%
 
@@ -120,147 +136,86 @@
 	\boldsymbol{V_E} &:\, \text{Expected value} 
 \end{align*}
 
-\subsubsection{Sample Calculation \\ {\normalfont \small\textit{inclined launch at 40 degrees -  measured vs calculations}}}
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{acceleration of glider on air track with hanging mass at 10 grams - measured vs calculations}}}
 
 \begin{align*}
-	RE &= \left| {\frac{2.925-2.704}{2.704}} \right|\: \text{x}\: 100\% \\
-			&= \boxed{8.157\%} 
+	RE &= \left| {\frac{V_A-V_E}{V_E}} \right|\: \text{x}\: 100\% \\
+	 &= \left| {\frac{0.3156-0.2874}{0.2874}} \right|\: \text{x}\: 100\% \\
+			RE &= \boxed{9.80\%} 
 \end{align*}
 %------- RELATIVE ERROR --------%
 
-\subsection{Horizontal Launch}
+%----TABLES-----%
 
-\subsubsection{Trials}
-%----HORIZONTAL LAUNCH-----%
-\begin{table}[H]
-\centering
-\begin{tabular}{cc}
-\textbf{Trials} & \textbf{Distances (m)} \\ \hline
-1 & 1.331 \\
-2 & 1.279 \\
-3 & 1.228 \\
-4 & 1.2 \\
-5 & 1.118 \\ \hline
-\textbf{Average (m)} & 1.231 \\
-\textbf{Standard Deviation (m)} & 0.07217
-\end{tabular}
-\caption{Horizontal Launch Trials}
-\label{tab:HLt}
-\end{table}
+\begin{landscape}
 
-%----HORIZONTAL LAUNCH CALCS-----%
-\subsubsection{Calculations}
+\subsection{Tables}
 
 \begin{table}[H]
+\captionsetup{font=Large}
+\caption{Known values}
 \centering
 \begin{threeparttable}
-\begin{tabular}{cccccc}
-	\textbf{X} & $\boldsymbol{x}\tnote{!}$ & $\boldsymbol{V\!o_x}$ & $\boldsymbol{V_x}$ & $\boldsymbol{a_x}$ & $\boldsymbol{t}$ \\ \hline
- & $1.231\,m$ & $5.18\,m/s$ & $5.187\,m/s$ & $0\,m/s^2$ & $0.237\,s$ \\
-\multicolumn{1}{l}{} & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} \\
-\textbf{Y} & $\boldsymbol{y}\tnote{!!} $ & $\boldsymbol{V\!o_y}$ & $\boldsymbol{V_y}$ & $\boldsymbol{a_y}$ &  \\ \hline
- & $-0.276\,m$ & $0\,m/s$ & $-2.322\,m/s$ & $-9.80\,m/s^2$ &
-\end{tabular}
-\begin{tablenotes}\footnotesize
-	\item[!] Average distance of horizontal launch trials
-	\item[!!] Height of gun to ground
-\end{tablenotes}	
+\resizebox{\textwidth}{!}{%
+\begin{tabular}{ccccc}
+	\textbf{g$\boldsymbol{(\text{\textbf{m/s}}^2})$} & $\boldsymbol{x_1\text{\textbf{(m)}}}\tnote{!}$ & $\boldsymbol{x_2\text{\textbf{{(m)}}}}\tnote{!}$ & $\boldsymbol{\Delta{x}\text{\textbf{(m)}}}$ & \textbf{M(m)\tnote{!!}} \\ \hline
+9.80 & 1.169 & 0.5 & 0.669 & 0.3409
+\end{tabular}%
+}
+\begin{tablenotes}\normalsize
+	\item[!] Positions of photogates 1 and 2
+	\item[!!] Mass of entire system
+\end{tablenotes}
 \end{threeparttable}
-\caption{Horizontal Launch Calculations}
-\label{tab:HLc}
+\label{tab:knownsTab}
 \end{table}
-%----HORIZONTAL LAUNCH CALCS-----%
 
-\subsection{Inclined Launch at $\boldsymbol{40^\circ}$}
-
-%----INCLINE LAUNCH 40-----%
-
-\subsubsection{Calculations}
+\vspace{-0.5cm}
 
 \begin{table}[H]
+\captionsetup{font=Large}
+\caption{Accelerating System of Mass M}
 \centering
 \begin{threeparttable}
-\begin{tabular}{clcccc}
-$\boldsymbol{V}\tnote{!}$ & $\boldsymbol{\theta}$ &  &  &  &  \\ \hline
-$5.187\,m/s$ & $40^\circ$ &  &  &  &  \\
-\multicolumn{1}{l}{} &  & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} \\
-\textbf{X} & \multicolumn{1}{c}{$\boldsymbol{x}$} & $\boldsymbol{V\!o_x}$ & $\boldsymbol{V_x}$ & $\boldsymbol{a_x}$ & $\boldsymbol{t}$ \\ \hline
- & \multicolumn{1}{c}{$2.704\,m$} & $3.973\,m/s$ & $3.973\,m/s$ & $0\,m/s^2$ & $0.680\,s$ \\
-\multicolumn{1}{l}{} &  & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} & \multicolumn{1}{l}{} \\
-\textbf{Y} & \multicolumn{1}{c}{$\boldsymbol{y}$} & $\boldsymbol{V\!o_y}$ & $\boldsymbol{V_y}$ & $\boldsymbol{a_y}$ &  \\ \hline
- & \multicolumn{1}{c}{$-1.05\,m$} & $3.334\,m/s$ & $0\,m/s$ & $-9.80\,m/s^2$ & 
-\end{tabular}
-\begin{tablenotes}\footnotesize
-	\item[!] Taken from horizontal launch trials since gun compression was the same. 
-\end{tablenotes}	
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{ccccccccc}
+\textbf{Measurement \#}         & 1       & 2      & 3       & 4        & 5        & 6       & 7      & 8       \\ \hline
+\textbf{m (g)\tnote{!}}                   & 0.01    & 0.015  & 0.02    & 0.025    & 0.03     & 0.035   & 0.04   & 0.045   \\
+\textbf{$\boldsymbol{F_{\textbf{net}}}$ (N)}          & 0.098   & 0.147  & 0.196   & 0.245    & 0.294    & 0.343   & 0.392  & 0.441   \\
+\textbf{a(expected) $\boldsymbol{(\textbf{m}/\textbf{s}^2)}$} & 0.2874  & 0.4312 & 0.5749  & 0.7186   & 0.8623   & 1.0060  & 1.1498 & 1.2935  \\
+\textbf{$\boldsymbol{T_{1}}$ (s)}            & 2.043   & 1.698  & 1.515   & 1.298    & 1.223    & 1.083   & 0.9914 & 0.9405  \\
+\textbf{$\boldsymbol{T_{2}}$ (s)}            & 2.067   & 1.732  & 1.435   & 1.316    & 1.223    & 1.075   & 1.045  & 0.9811  \\
+\textbf{$\boldsymbol{T _{3}}$ (s)}           & 2.067   & 1.739  & 1.491   & 1.298    & 1.207    & 1.143   & 1.037  & 1.008   \\
+\textbf{$\boldsymbol{T _{\textbf{avg}}}$ (s)}         & 2.059   & 1.723  & 1.48    & 1.304    & 1.217    & 1.1     & 1.024  & 0.9765  \\
+\textbf{$\boldsymbol{T _{\textbf{std}}}$ (s)}          & 0.01131 & 0.0179 & 0.03351 & 0.008485 & 0.007542 & 0.03034 & 0.0236 & 0.02774 \\
+\textbf{a(measured) $\boldsymbol{(\textbf{m}/\textbf{s}^2)}$}  & 0.3156  & 0.4506 & 0.6108  & 0.7868   & 0.9033   & 1.105  & 1.276 & 1.403  \\ \hline
+\textbf{Percent Error (\%)}   & 9.80    & 4.51   & 6.25    & 9.49     & 4.75     & 9.84    & 10.98  & 8.47    
+\end{tabular}%
+}
+\begin{tablenotes}\normalsize
+	\item[!] Hanging mass only 
+\end{tablenotes}
 \end{threeparttable}
-\caption{Inclined Launch at $40^\circ$ Calculations}
-\label{tab:IL40c}
+\label{tab:dataTab}
 \end{table}
+\end{landscape}
+ 
+%----TABLES-----%
 
-\subsubsection{Trials}
-	
-\begin{table}[H]
-\centering
-\begin{tabular}{ccc}
-\textbf{Trials} & \textbf{Distances (m)} & \textbf{Relative Error (\%)} \\ \hline
-1 & 2.925 & 8.157 \\
-2 & 3.054 & 12.92 \\
-3 & 2.87 & 6.123 \\
-4 & 2.927 & 10.81 \\
-5 & 2.734 & 3.683 \\ \hline
-\textbf{Average (m)} & 2.902 &  \\
-\textbf{Standard Deviation (m)} & 0.1034 & 
-\end{tabular}
-\caption{Inclined Launch at $40^\circ$ Trials}
-\label{tab:IL40t}
-\end{table}
+%----GRAPHS-----%
 
-%----INCLINE LAUNCH 40-----%
+\begin{landscape}
+\subsection{Graphs}
+\begin{figure}[H]
+	\begin{center}
+		\captionsetup{font=Large}
+		\caption{Force vs. Acceleration}\label{fig:GFvA}
+		\includegraphics[width=0.90\columnwidth]{images/GraphFvA}
+	\end{center}
+\end{figure}
+\end{landscape}
 
-%----INCLINE LAUNCH 55-----%
-\subsection{Inclined Launch at $\boldsymbol{55^\circ}$}
+%----GRAPHS-----%
 
-\subsubsection{Calculations}
-
-\begin{table}[H]
-\centering
-\begin{threeparttable}
-\begin{tabular}{cccccc}
-$\boldsymbol{V}\tnote{!}$ & $\boldsymbol{\theta}$ &  &  &  &  \\ \hline
-$5.187\,m/s$ & $55^\circ$ &  &  &  &  \\
- &  &  &  &  &  \\
-\textbf{X} & $\boldsymbol{x}$ & $\boldsymbol{V\!o_x}$ & $\boldsymbol{V_x}$ & $\boldsymbol{a_x}$ & $\boldsymbol{t}$ \\ \hline
- & $2.580\,m$ & $2.975\,m/s$ & $3.975\,m/s$ & $0\,m/s^2$ & $0.867\,s$ \\
- &  &  &  &  &  \\
-\textbf{Y} & $\boldsymbol{y}$ & $\boldsymbol{V\!o_y}$ & $\boldsymbol{V_y}$ & $\boldsymbol{a_y}$ &  \\ \hline
- & $-1.05\,m$ & $4.249\,m/s$ & $0\,m/s$ & $-9.80\,m/s^2$ & 
-\end{tabular}
-\begin{tablenotes}\footnotesize
-	\item[!] Taken from horizontal launch trials since gun compression was the same. 
-\end{tablenotes}	
-\end{threeparttable}
-\caption{Inclined Launch at $55^\circ$ Calculations}
-\label{tab:IL55c}
-\end{table}
-
-\subsubsection{Trials}
-
-\begin{table}[H]
-\centering
-\begin{tabular}{ccc}
-\textbf{Trials} & \textbf{Distances (m)} & \textbf{Relative Error (\%)} \\ \hline
-1 & 2.748 & 6.5 \\
-2 & 2.52 & 2.324 \\
-3 & 2.723 & 5.523 \\
-4 & 2.542 & 1.475 \\
-5 & 2.733 & 5.914 \\ \hline
-\textbf{Average (m)} & 2.653 &  \\
-\textbf{Standard Deviation (m)} & 0.1001 & 
-\end{tabular}
-\caption{Inclined Launch at $55^\circ$ Trials}
-\label{tab:IL55t}
-\end{table}
-%----INCLINE LAUNCH 55-----%
 \newpage
 
