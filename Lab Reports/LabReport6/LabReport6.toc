@@ -16,6 +16,6 @@
 \contentsline {subsection}{Relative Error Formula}{6}{}%
 \contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {acceleration of glider on air track with hanging mass at 10 grams - measured vs calculations}}}{6}{}%
 \contentsline {subsection}{Tables}{7}{}%
-\contentsline {subsection}{Graphs}{8}{}%
-\contentsline {section}{Questions}{9}{}%
-\contentsline {section}{Conclusion}{9}{}%
+\contentsline {subsection}{Graphs}{9}{}%
+\contentsline {section}{Questions}{10}{}%
+\contentsline {section}{Conclusion}{11}{}%
