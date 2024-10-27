@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1729977153.31181 "LabReport6.tex" "LabReport6.pdf" "LabReport6" 1729977157.1384 0
+["pdflatex"] 1730053646.35169 "LabReport6.tex" "LabReport6.pdf" "LabReport6" 1730053653.52544 0
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1710106625 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1710106625 5472554 f7861620179a71a79d4bd86251f559d0 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1710106625 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
@@ -44,7 +44,6 @@
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1710106625 32362 179c33bbf43f19adbb3825bb4e36e57a ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1710106625 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1710106625 32569 5e5ddc8df908dea60932f3c484a54c0d ""
-  "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1710106625 32626 4f5c1b83753b1dd3a97d1b399a005b4b ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1710106625 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1710106625 36118 fad905eba93cff5bce1e185fe980a177 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb" 1710106625 35479 892d27442ef9ef29ce1ee57aa0e8a665 ""
@@ -205,13 +204,13 @@
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/web2c/texmf.cnf" 1727658683.37357 41652 e14926ab86fde7902cad99d9eeaa5ca5 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1710106625 8221728 6ad968c4cf6ec94c671719186a970bed ""
   "CalculationsGraphs.tex" 1729977145.41134 10658 1f7bd1fd648ab955dc1ba8b6f7167db2 ""
-  "Conclusion.tex" 1729051202.19925 3017 f08712e5368d4b99d039e1d40936524e ""
-  "LabReport6.aux" 1729977156.72645 3793 f17fbc48e48149d240c3a58e9342cdda "pdflatex"
+  "Conclusion.tex" 1730053645.99207 2434 5043ba622fcbbab2b54788201069d55e ""
+  "LabReport6.aux" 1730053653.06714 3793 f17fbc48e48149d240c3a58e9342cdda "pdflatex"
   "LabReport6.tex" 1729972733.95346 3158 d8e4685b3dc926147ddfaae5f0f0a62b ""
-  "LabReport6.toc" 1729977156.7293 1671 df36da1707f5fe2f61a9e80b9a017e77 "pdflatex"
+  "LabReport6.toc" 1730053653.07179 1671 df36da1707f5fe2f61a9e80b9a017e77 "pdflatex"
   "Procedure.tex" 1729194867.87377 1726 b8b4c94405a79294e888293f82583aad ""
   "Purpose.tex" 1729189631.33851 178 f791dfc51b0437307001c6299341277f ""
-  "Questions.tex" 1729863566.14262 2246 e631d9959e2df47b5ef3184bdacc1d29 ""
+  "Questions.tex" 1730052618.64451 2397 d85f1fa23e7d1407337805b8011e6910 ""
   "Theory.tex" 1729784339.72199 2098 0151a05b7b9597f991e2b52f5adbc55d ""
   "images/GraphFvA.png" 1729976264.80314 426974 25c6b11735153b58d137dbbc0a5832f9 ""
   "images/dutchess-logo-blue.png" 1728084513 11580 da0260fd27bfee2eeaabfb583d83fa34 ""
