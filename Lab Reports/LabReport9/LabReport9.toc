@@ -1,0 +1,17 @@
+\contentsline {section}{Purpose}{2}{}%
+\contentsline {section}{Theory}{2}{}%
+\contentsline {section}{Procedure}{3}{}%
+\contentsline {section}{Calculations \& Graphs}{4}{}%
+\contentsline {subsection}{Final Velocity}{4}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {using measurements of trial 2}}}{4}{}%
+\contentsline {subsection}{Kinetic Energy}{4}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {using measurements of trial 2}}}{4}{}%
+\contentsline {subsection}{Gravitational Potential Energy}{5}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {using measurements of trial 2}}}{5}{}%
+\contentsline {subsection}{Average Value Formula}{5}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {using photogate times of trial 2}}}{5}{}%
+\contentsline {subsection}{Standard Deviation Formula}{6}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {std of photogate times with hanging mass at 10 grams }}}{6}{}%
+\contentsline {subsection}{Percent Difference Between Change in KE and GPE}{6}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {using measurements from trial 2}}}{6}{}%
+\contentsline {section}{Conclusion}{8}{}%
