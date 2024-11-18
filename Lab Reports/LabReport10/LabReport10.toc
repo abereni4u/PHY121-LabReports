@@ -1,0 +1,16 @@
+\contentsline {section}{Purpose}{2}{}%
+\contentsline {section}{Theory}{2}{}%
+\contentsline {section}{Procedure}{3}{}%
+\contentsline {subsection}{Part 1: Elastic Collisions}{3}{}%
+\contentsline {subsection}{Part 2: Inelastic Collisions}{4}{}%
+\contentsline {subsection}{Part 3: Force During a Collision}{4}{}%
+\contentsline {section}{Calculations \& Graphs}{5}{}%
+\contentsline {subsection}{Momentum}{5}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {using initial momentum of red cart in Part 1, trial 1}}}{5}{}%
+\contentsline {subsection}{Kinetic Energy}{5}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {initial kinetic energy of red cart, part 1 trial 2}}}{5}{}%
+\contentsline {subsection}{Percent Difference Between Change Calculated Momentum and Impulse From Graph}{6}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {using values from part 3}}}{6}{}%
+\contentsline {subsection}{Tables}{7}{}%
+\contentsline {section}{Questions}{9}{}%
+\contentsline {section}{Conclusion}{11}{}%
