@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.17)  4 OCT 2024 23:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.17)  5 NOV 2024 23:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -212,50 +212,57 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box54
 \enit@count@id=\count279
 \enitdp@description=\count280
+) (/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count281
+\float@exts=\toks26
+\float@box=\box55
+\@float@everytoks=\toks27
+\@floatcapt=\box56
 ) (/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-02-20 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count281
-\l__pdf_internal_box=\box55
+\l__color_backend_stack_int=\count282
+\l__pdf_internal_box=\box57
 ) (./PHY121_FinalProject_AbereniOpuiyo.aux)
 \openout1 = `PHY121_FinalProject_AbereniOpuiyo.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
-LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
+LaTeX Font Info:    ... okay on input line 80.
 \symgns@font=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/cmr/m/n --> TS1/cmr/b/n on input line 79.
-Package gensymb Info: Math companion symbols declared on input line 79.
-LaTeX Info: Redefining \degree on input line 79.
-LaTeX Info: Redefining \celsius on input line 79.
-Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 79.
-LaTeX Info: Redefining \ohm on input line 79.
-Package gensymb Info: Using \textohm for \ohm on input line 79.
-Package gensymb Info: Using \textmu for \micro on input line 79.
+(Font)                  TS1/cmr/m/n --> TS1/cmr/b/n on input line 80.
+Package gensymb Info: Math companion symbols declared on input line 80.
+LaTeX Info: Redefining \degree on input line 80.
+LaTeX Info: Redefining \celsius on input line 80.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 80.
+LaTeX Info: Redefining \ohm on input line 80.
+Package gensymb Info: Using \textohm for \ohm on input line 80.
+Package gensymb Info: Using \textmu for \micro on input line 80.
  (/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count282
+\scratchcounter=\count283
 \scratchdimen=\dimen166
-\scratchbox=\box56
-\nofMPsegments=\count283
-\nofMParguments=\count284
-\everyMPshowfont=\toks26
-\MPscratchCnt=\count285
+\scratchbox=\box58
+\nofMPsegments=\count284
+\nofMParguments=\count285
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count286
 \MPscratchDim=\dimen167
-\MPnumerator=\count286
-\makeMPintoPDFobject=\count287
-\everyMPtoPDFconversion=\toks27
+\MPnumerator=\count287
+\makeMPintoPDFobject=\count288
+\everyMPtoPDFconversion=\toks29
 ) (/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -299,7 +306,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 <dutchess-logo-blue.png, id=1, 424.58624pt x 107.40125pt>
 File: dutchess-logo-blue.png Graphic file (type png)
 <use dutchess-logo-blue.png>
-Package pdftex.def Info: dutchess-logo-blue.png  used on input line 80.
+Package pdftex.def Info: dutchess-logo-blue.png  used on input line 81.
 (pdftex.def)             Requested size: 233.23447pt x 58.99875pt.
 [1
 
@@ -316,11 +323,121 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [1]
-<U1P1S.png, id=14, 760.64175pt x 297.7524pt>
-File: U1P1S.png Graphic file (type png)
-<use U1P1S.png>
-Package pdftex.def Info: U1P1S.png  used on input line 124.
-(pdftex.def)             Requested size: 339.24956pt x 132.79698pt.
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+<U1_P1_A.png, id=14, 1525.7pt x 403.5075pt>
+File: U1_P1_A.png Graphic file (type png)
+<use U1_P1_A.png>
+Package pdftex.def Info: U1_P1_A.png  used on input line 139.
+(pdftex.def)             Requested size: 339.24956pt x 89.7201pt.
+
+./PHY121_FinalProject_AbereniOpuiyo.tex:141: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.141 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
+
+ []
+
+<U1_P1_B.png, id=15, 1968.35374pt x 549.05125pt>
+File: U1_P1_B.png Graphic file (type png)
+<use U1_P1_B.png>
+Package pdftex.def Info: U1_P1_B.png  used on input line 149.
+(pdftex.def)             Requested size: 339.24956pt x 94.62766pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[2 <./U1_P1_A.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+ []
+
+<U1_P1_C.png, id=21, 1439.3775pt x 529.98pt>
+File: U1_P1_C.png Graphic file (type png)
+<use U1_P1_C.png>
+Package pdftex.def Info: U1_P1_C.png  used on input line 159.
+(pdftex.def)             Requested size: 339.24956pt x 124.90921pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+<U1_P1_D.png, id=22, 1173.38374pt x 467.7475pt>
+File: U1_P1_D.png Graphic file (type png)
+<use U1_P1_D.png>
+Package pdftex.def Info: U1_P1_D.png  used on input line 169.
+(pdftex.def)             Requested size: 339.24956pt x 135.22932pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[3 <./U1_P1_B.png> <./U1_P1_C.png> <./U1_P1_D.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
+
+ []
+
+<U1_P1_E.png, id=26, 2056.68375pt x 575.14874pt>
+File: U1_P1_E.png Graphic file (type png)
+<use U1_P1_E.png>
+Package pdftex.def Info: U1_P1_E.png  used on input line 180.
+(pdftex.def)             Requested size: 339.24956pt x 94.86911pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--188
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--190
+
+ []
+
+<U1_P2_A.png, id=27, 1522.68875pt x 181.67876pt>
+File: U1_P2_A.png Graphic file (type png)
+<use U1_P2_A.png>
+Package pdftex.def Info: U1_P2_A.png  used on input line 195.
+(pdftex.def)             Requested size: 339.24956pt x 40.47675pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 199--200
+
+ []
+
+<U1_P2_B.png, id=28, 1709.38625pt x 160.6pt>
+File: U1_P2_B.png Graphic file (type png)
+<use U1_P2_B.png>
+Package pdftex.def Info: U1_P2_B.png  used on input line 205.
+(pdftex.def)             Requested size: 339.24956pt x 31.87192pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 209--210
+
+ []
+
+<U1_P2_C.png, id=29, 2116.90875pt x 696.6025pt>
+File: U1_P2_C.png Graphic file (type png)
+<use U1_P2_C.png>
+Package pdftex.def Info: U1_P2_C.png  used on input line 215.
+(pdftex.def)             Requested size: 339.24956pt x 111.62874pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+
+ []
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -329,12 +446,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2{/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./U1P1S.png>]
-<U1P2S.jpg, id=22, 3348.51pt x 1618.045pt>
-File: U1P2S.jpg Graphic file (type jpg)
-<use U1P2S.jpg>
-Package pdftex.def Info: U1P2S.jpg  used on input line 137.
-(pdftex.def)             Requested size: 339.24956pt x 163.91257pt.
+[4 <./U1_P1_E.png> <./U1_P2_A.png> <./U1_P2_B.png> <./U1_P2_C.png>]
+<U1_P2_D.png, id=33, 1339.0025pt x 457.71pt>
+File: U1_P2_D.png Graphic file (type png)
+<use U1_P2_D.png>
+Package pdftex.def Info: U1_P2_D.png  used on input line 228.
+(pdftex.def)             Requested size: 339.24956pt x 115.96371pt.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -343,25 +460,175 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3 <./U1P2S.jpg>] (./PHY121_FinalProject_AbereniOpuiyo.aux)
+[5 <./U1_P2_D.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--266
+
+ []
+
+<U2_P1_A.png, id=37, 621.32124pt x 868.24374pt>
+File: U2_P1_A.png Graphic file (type png)
+<use U2_P1_A.png>
+Package pdftex.def Info: U2_P1_A.png  used on input line 271.
+(pdftex.def)             Requested size: 127.21939pt x 177.77914pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[6 <./U2_P1_A.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
+
+ []
+
+<U2_P1_B.png, id=43, 841.1425pt x 932.48375pt>
+File: U2_P1_B.png Graphic file (type png)
+<use U2_P1_B.png>
+Package pdftex.def Info: U2_P1_B.png  used on input line 282.
+(pdftex.def)             Requested size: 127.21939pt x 141.03326pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 285--286
+
+ []
+
+<U2_P1_C.png, id=44, 923.45pt x 974.64125pt>
+File: U2_P1_C.png Graphic file (type png)
+<use U2_P1_C.png>
+Package pdftex.def Info: U2_P1_C.png  used on input line 291.
+(pdftex.def)             Requested size: 127.21939pt x 134.26268pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 294--295
+
+ []
+
+<U2_P1_D.png, id=45, 974.64125pt x 834.11626pt>
+File: U2_P1_D.png Graphic file (type png)
+<use U2_P1_D.png>
+Package pdftex.def Info: U2_P1_D.png  used on input line 300.
+(pdftex.def)             Requested size: 127.21939pt x 108.87166pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[7 <./U2_P1_B.png> <./U2_P1_C.png> <./U2_P1_D.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 315--316
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 324--325
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--328
+
+ []
+
+<U3_P1_A.png, id=50, 929.4725pt x 815.045pt>
+File: U3_P1_A.png Graphic file (type png)
+<use U3_P1_A.png>
+Package pdftex.def Info: U3_P1_A.png  used on input line 333.
+(pdftex.def)             Requested size: 212.03017pt x 185.9267pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8 <./U3_P1_A.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 338--339
+
+ []
+
+<U3_P1_B.png, id=54, 958.58125pt x 696.6025pt>
+File: U3_P1_B.png Graphic file (type png)
+<use U3_P1_B.png>
+Package pdftex.def Info: U3_P1_B.png  used on input line 344.
+(pdftex.def)             Requested size: 212.03017pt x 154.0821pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
+
+ []
+
+<U3_P1_C.png, id=55, 1344.02126pt x 465.74pt>
+File: U3_P1_C.png Graphic file (type png)
+<use U3_P1_C.png>
+Package pdftex.def Info: U3_P1_C.png  used on input line 353.
+(pdftex.def)             Requested size: 212.03017pt x 73.46814pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 356--357
+
+ []
+
+<U3_P1_D.png, id=56, 1130.2225pt x 630.355pt>
+File: U3_P1_D.png Graphic file (type png)
+<use U3_P1_D.png>
+Package pdftex.def Info: U3_P1_D.png  used on input line 362.
+(pdftex.def)             Requested size: 212.03017pt x 118.24898pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[9 <./U3_P1_B.png> <./U3_P1_C.png> <./U3_P1_D.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 367--368
+
+ []
+
+<U3_P1_E.png, id=60, 1676.2625pt x 337.26pt>
+File: U3_P1_E.png Graphic file (type png)
+<use U3_P1_E.png>
+Package pdftex.def Info: U3_P1_E.png  used on input line 373.
+(pdftex.def)             Requested size: 212.03017pt x 42.65657pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 377--378
+
+ []
+
+<U3_P1_F.jpg, id=61, 2457.18pt x 1363.0925pt>
+File: U3_P1_F.jpg Graphic file (type jpg)
+<use U3_P1_F.jpg>
+Package pdftex.def Info: U3_P1_F.jpg  used on input line 383.
+(pdftex.def)             Requested size: 212.03017pt x 117.61885pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10 <./U3_P1_E.png> <./U3_P1_F.jpg>] (./PHY121_FinalProject_AbereniOpuiyo.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4339 strings out of 474116
- 67668 string characters out of 5734122
- 1930187 words of memory out of 5000000
- 26660 multiletter control sequences out of 15000+600000
- 567344 words of font info for 67 fonts, out of 8000000 for 9000
+ 4594 strings out of 474116
+ 71944 string characters out of 5734122
+ 1932187 words of memory out of 5000000
+ 26911 multiletter control sequences out of 15000+600000
+ 567703 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,11n,65p,315b,245s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
-Output written on PHY121_FinalProject_AbereniOpuiyo.pdf (4 pages, 582453 bytes).
+ 57i,12n,65p,348b,245s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on PHY121_FinalProject_AbereniOpuiyo.pdf (11 pages, 3524852 bytes).
 PDF statistics:
- 49 PDF objects out of 1000 (max. 8388607)
- 27 compressed objects within 1 object stream
+ 92 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 101 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -6,178 +6,171 @@
 
 %------- Force --------%
 
-\subsection{Final Velocity} 
+\subsection{Tangential Velocity} 
 
 {\centering
 \begin{equation}
-	V_f =  \frac{2\Delta{x}}{t} 
-	\label{eq:finalV}
+	v =  \frac{2 \pi r}{t} 
+	\label{eq:tvelocity}
 \end{equation}
 \begin{align*}
-	\boldsymbol{\Delta{x}} &: \text{distance between photogates} \\
-\boldsymbol{t} &: \text{Average time between photogates} \\
+	\mathbf{v} &: \text{velocity} \\
+	\mathbf{r} &: \text{radius of circle} \\
+	\mathbf{t} &: \text{time for 1 revolution}
 \end{align*}}
 
-\subsubsection{Sample Calculation \\ {\normalfont \small\textit{using measurements of trial 2}}}
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{using part 1 data with 50 g of weight}}}
 
 {\centering
 \begin{align*}
-	V_f &=  \frac{2\Delta{x}}{t} \\ \\
-			&=  \frac{(2)(0.8744)}{1.456} \\ \\ 
-	V_f	&= \boxed{1.201 \text{ m/s}} 
+	v &=  \frac{2 \pi r}{t} \\ \\
+		&=  \frac{2 \pi (0.2\text{ m})}{0.3426\text{ s}} \\ \\
+	v	&= \boxed{3.666 \text{ m/s}} 
 \end{align*}}
 
 %------- ACCELERATION BETWEEN TWO POINTS WITH INITIAL VELOCITY CLOSE TO ZERO--------%
 
-\subsection{Kinetic Energy} 
+\subsection{Centripetal Force} 
 
 {\centering
 \begin{equation}
-	\Delta{\text{KE}} = \frac{1}{2}mv^2 
-	\label{eq:energyK}
+	\text{F\textsubscript{c}} = \frac{mv^2}{r}
+	\label{eq:centriForce}
 \end{equation}
 \begin{align*}
-	\boldsymbol{m} &: \text{mass of glider} \\
-	\boldsymbol{v} &: \text{average final velocity of glider} 
+	\mathbf{F_c} &: \text{centripetal force} \\
+	\mathbf{m} &: \text{mass of object} \\
+	\mathbf{v} &: \text{tangential velocity of object} \\
+	\mathbf{r} &: \text{radius of circle}
 \end{align*}}
 
-\subsubsection{Sample Calculation \\ {\normalfont \small\textit{using measurements of trial 2}}}
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{using expected velocity in part 2 with 50 g}}}
 
-
+{\centering
 \begin{align*}
-	\Delta{\text{KE}} &= \frac{1}{2}mv^2 \\ \\
-										&= \frac{1}{2}(0.2847)(1.201)^2 \\ \\
-	\Delta{\text{KE}} &= \boxed{0.2052\,\text{ J}}
-\end{align*}
+	\text{F\textsubscript{c}}  &= \frac{mv^2}{r} \\
+			&= \frac{(0.012\text{ kg})(2.858\text{ m/s})^2}{0.2\text{ m}} \\
+	\text{F\textsubscript{c}}  &= \boxed{0.49\,\text{N}}
+\end{align*}}
 
 %------- ACCELERATION BETWEEN TWO POINTS --------%
 
 %------- AVERAGE VALUE --------%
-\subsection{Gravitational Potential Energy} 
-
-\vspace{0.5cm}
-
-{\centering
-\begin{equation}
-	\Delta{\text{GPE}} = -mg(\text{h\textsubscript{1}} - \text{h\textsubscript{2}}) 
-	\label{eq:energyP}
-\end{equation}
-\begin{align*}
-	\mathbf{m} &: \text{mass of glider}	\\
-	\mathbf{g} &: \text{acceleration due to gravity} \\
-	\textbf{h\textsubscript{1}} &: \text{height of photogate 1} \\
-	\textbf{h\textsubscript{2}} &: \text{height of photogate 2} 
-\end{align*}}
-
-\subsubsection{Sample Calculation \\ {\normalfont \small\textit{using measurements of trial 2}}}
-
-\begin{align*}
-	\Delta{\text{GPE}} &= -mg(\text{h\textsubscript{1}} - \text{h\textsubscript{2}}) \\
-										 &= -(0.2847)(9.80)(0.2346-0.1786) \\
-	\Delta{\text{GPE}} &= \boxed{-0.15262\text{ J}}
-\end{align*}
-
 \subsection{Average Value Formula} 
 
 \begin{align*}
 	\overline{a} = \frac{\text{sum of values}}{\text{total \# of values}} 
 \end{align*}
 
-\subsubsection{Sample Calculation \\ {\normalfont \small\textit{using photogate times of trial 2}}}
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{average period using Part 1 at 50 g}}}
 
 \begin{align*}
 	\overline{a}&=\frac{\text{sum of values}}{\text{total \# of values}} \\ \\
-							&= \frac{1.461+1.455+1.454}{3} \\ \\
-	\overline{a}&= \boxed{1.457\,\text{s}}
+							&= \frac{0.334\text{ s}+0.3515\text{ s}}{2} \\ \\
+	\overline{a}&= \boxed{0.3426\,\text{s}}
 \end{align*}
 %------- AVERAGE VALUE --------%
 
 %------- STANDARD DEVIATION --------%
-\subsection{Standard Deviation Formula}
-
-\begin{align*}
-		\sigma &= \sqrt{\frac{\Sigma(x_i -\overline{a})^2}{N}} \\
-		 &= \sqrt{\frac{SS}{N}} \\ \\
-		\textbf{N} &:\, \text{Total number of values} \\
-		\overline{\textbf{a}} &:\, \text{Average value} \\
-		\textbf{x\textsubscript{i}} &:\, \text{Each value from the data set} \\
-		\textbf{SS} &:\, \text{Sum of squares} 
-\end{align*}
-
-\subsubsection{Sample Calculation \\ {\normalfont \small\textit{std of photogate times with hanging mass at 10 grams }}}
-
-\begin{align*}
-	\sigma &= \sqrt{\frac{(1.461-\overline{a})^2 + ... + (1.454-\overline{a})^2}{3}} \\
-				 &= \sqrt{\frac{2.886\,\text{x}\,10^{-5}}{3}} \\
-		 &= \boxed{0.0003\, \text{s}}
-\end{align*}
+%\subsection{Standard Deviation Formula}
+%
+%\begin{align*}
+%		\sigma &= \sqrt{\frac{\Sigma(x_i -\overline{a})^2}{N}} \\
+%		 &= \sqrt{\frac{SS}{N}} \\ \\
+%		\textbf{N} &:\, \text{Total number of values} \\
+%		\overline{\textbf{a}} &:\, \text{Average value} \\
+%		\textbf{x\textsubscript{i}} &:\, \text{Each value from the data set} \\
+%		\textbf{SS} &:\, \text{Sum of squares} 
+%\end{align*}
+%
+%\subsubsection{Sample Calculation \\ {\normalfont \small\textit{std of photogate times with hanging mass at 10 grams }}}
+%
+%\begin{align*}
+%	\sigma &= \sqrt{\frac{(1.461-\overline{a})^2 + ... + (1.454-\overline{a})^2}{3}} \\
+%				 &= \sqrt{\frac{2.886\,\text{x}\,10^{-5}}{3}} \\
+%		 &= \boxed{0.0003\, \text{s}}
+%\end{align*}
 %------- STANDARD DEVIATION --------%
 
 %------- RELATIVE ERROR --------%
-\subsection{Percent Difference Between Change in KE and GPE}
+\subsection{Percent Error}
 \vspace{0.5cm}
 \begin{equation}
-	PD = \left| {\frac{\frac{\Delta{\textbf{KE}} + \Delta{\text{GPE}}}{\Delta{\text{KE}} - \Delta{\text{GPE}}}}{2}} \right|\: \text{x}\: 100\% \\ \\
-	\label{eq:pdiff}
+	\text{PD}	= \left| \frac{\text{measured - actual}}{\text{actual}} \right|\: \text{x}\: 100\%
+	\label{eq:perror}
 \end{equation}
-\begin{align*}
-	\boldsymbol{\Delta{\textbf{KE}}} &:\, \text{Change in kinetic energy of glider} \\
-	\boldsymbol{\Delta{\textbf{GPE}}} &:\, \text{Change in gravitational energy of glider} 
-\end{align*}
 
-\subsubsection{Sample Calculation \\ {\normalfont \small\textit{using measurements from trial 2}}}
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{percent error between theoretical period and measured period using values from part 3}}}
 
 \begin{align*}
-	PD &= \left| {\frac{\frac{\Delta{\textbf{KE}} + \Delta{\text{GPE}}}{\Delta{\text{KE}} - \Delta{\text{GPE}}}}{2}} \right|\: \text{x}\: 100\% \\
-	 &= \left| {\frac{\frac{0.2502 + (-0.1562}{0.2052 - (-0.1562)}}{2}} \right|\: \text{x}\: 100\% \\
-			PD &= \boxed{27.12\%} 
+	\text{PD}	&= \left| \frac{\text{measured - actual}}{\text{actual}} \right|\: \text{x}\: 100\% \\ \\
+	\text{PD}	&= \left| \frac{\text{0.3426\text{ s} - 0.5071\text{ s}}}{\text{0.5071\text{ s}}} \right|\: \text{x}\: 100\% \\ \\
+			PD &= \boxed{32.41\%} 
 \end{align*}
 %------- RELATIVE ERROR --------%
 
 %----TABLES-----%
-\begin{landscape}
-\begin{table}
+\subsection{Tables}
+
+\begin{table}[H]
 \centering
 \captionsetup{font=Large}
-\caption{Energy Loss of Glider Trials}
-\label{tab:dataTab}
-\resizebox{\linewidth}{!}{%
-\begin{tabular}{lr|lr|lr} 
-\hline
-\multicolumn{2}{c|}{\textbf{TRIAL 1}}                                                 & \multicolumn{2}{c|}{\textbf{TRIAL 2}}                                                 & \multicolumn{2}{c}{\textbf{TRIAL 3}}                                                  \\ 
-\hline
-\textbf{m (kg)}                                              & 0.1847                 & \textbf{m (kg)}                                              & 0.2847                  & \textbf{m (kg)}                                              & 0.3847                  \\
-                                                             & \multicolumn{1}{l|}{~} & ~                                                            & \multicolumn{1}{l|}{~} &                                                              & \multicolumn{1}{l}{}   \\
-$\mathbf{x_2\textbf{ (m)}}$                                  & 1.572                  & $\mathbf{x_2\textbf{ (m)}}$                                  & 0.4016                 & $\mathbf{x_2\textbf{ (m)}}$                                  & 0.4016                 \\
-$\mathbf{x_1\textbf{ (m)}}$                                  & 0.3883                 & $\mathbf{x_1\textbf{ (m)}}$                                  & 1.276                  & $\mathbf{x_1\textbf{ (m)}}$                                  & 1.276                  \\
-$\mathbf{\Delta{x}\textbf{ (m)}}$                             & 1.1840                 & $\mathbf{\Delta{x}\textbf{ (m)}}$                             & 0.8744                 & $\mathbf{\Delta{x}\textbf{ (m)}}$                             & 0.8744                 \\
-                                                             & \multicolumn{1}{l|}{~} & ~                                                            & \multicolumn{1}{l|}{~} &                                                              & \multicolumn{1}{l}{}   \\
-$\mathbf{h_2\textbf{ (m)}}$                                  & 0.2555                 & $\mathbf{h_2\textbf{ (m)}}$                                  & 0.1786                 & $\mathbf{h_2\textbf{ (m)}}$                                  & 0.1786                 \\
-$\mathbf{h_1\textbf{ (m)}}$                                  & 0.1786                 & $\mathbf{h_1\textbf{ (m)}}$                                  & 0.2346                 & $\mathbf{h_1\textbf{ (m)}}$                                  & 0.2346                 \\
-$\mathbf{\Delta{h}\textbf{ (m)}}$                             & 0.0769                 & $\mathbf{\Delta{h}\textbf{ (m)}}$                             & 0.0560                 & $\mathbf{\Delta{h}\textbf{ (m)}}$                             & 0.0560                 \\
-                                                             & \multicolumn{1}{l|}{~} & ~                                                            & \multicolumn{1}{l|}{~} &                                                              & \multicolumn{1}{l}{}   \\
-$\mathbf{t_1\textbf{ (s)}}$                                  & 1.648                  & $\mathbf{t_1\textbf{ (s)}}$                                  & 1.461                  & $\mathbf{t_1\textbf{ (s)}}$                                  & 1.458                  \\
-$\mathbf{t_2\textbf{ (s)}}$                                  & 1.686                  & $\mathbf{t_2\textbf{ (s)}}$                                  & 1.455                  & $\mathbf{t_2\textbf{ (s)}}$                                  & 1.424                  \\
-$\mathbf{t_3\textbf{ (s)}}$                                  & 1.656                  & $\mathbf{t_3\textbf{ (s)}}$                                  & 1.454                  & $\mathbf{t_3\textbf{ (s)}}$                                  & 1.454                  \\
-$\mathbf{t_\textbf{std} \textbf{ (s)}}$                      & 0.016                  & $\mathbf{t_\textbf{std} \textbf{ (s)}}$                      & 0.003                  & $\mathbf{t_\textbf{std} \textbf{ (s)}}$                      & 0.015                  \\
-$\mathbf{t_\textbf{avg} \textbf{ (s)}}$                      & 1.663                  & $\mathbf{t_\textbf{avg} \textbf{ (s)}}$                      & 1.457                  & $\mathbf{t_\textbf{avg} \textbf{ (s)}}$                      & 1.446                  \\
-                                                             & \multicolumn{1}{l|}{~} & ~                                                            & \multicolumn{1}{l|}{~} &                                                              & \multicolumn{1}{l}{}   \\
-$\mathbf{V_f\textbf{avg}\textbf{ (m/s)}}$ & 1.424                  & $\mathbf{V_f\textbf{avg}\textbf{ (m/s)}}$ & 1.201                  & $\mathbf{V_f\textbf{avg}\textbf{ (m/s)}}$ & 1.21                   \\
-$\mathbf{\Delta{\textbf{KE}_\textbf{avg}} \textbf{ (J)}}$    & 0.1871                  & $\mathbf{\Delta{\textbf{KE}_\textbf{avg}} \textbf{ (J)}}$    & 0.2052                  & $\mathbf{\Delta{\textbf{KE}_\textbf{avg}} \textbf{ (J)}}$    & 0.2815                  \\
-$\mathbf{\Delta{\textbf{GPE}_\textbf{avg}} \textbf{ (J)}}$   & -0.1392                 & $\mathbf{\Delta{\textbf{GPE}_\textbf{avg}} \textbf{ (J)}}$   & -0.1562                 & $\mathbf{\Delta{\textbf{GPE}_\textbf{avg}} \textbf{ (J)}}$   & -0.2111                 \\
-~                                                            & \multicolumn{1}{l|}{~} & ~                                                            & \multicolumn{1}{l|}{~} & ~                                                            & \multicolumn{1}{l}{~}  \\ 
-\hline
-\textbf{Percent Difference (\%)}                             & 29.36                  & \textbf{Percent Difference (\%)}                             & 27.12                  & \textbf{Percent Difference (\%)}                             & 28.58                  \\
-\textbf{Energy Lost (J)}                                     & 0.04796                  & \textbf{Energy Lost (J)}                                     & 0.04897                  & \textbf{Energy Lost (J)}                                     & 0.0704                   \\
-\hline
-\end{tabular}
+\caption{Part 1 }
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{@{}ccccc@{}}
+\toprule
+\textbf{Mass (kg)}                       & 0.05   & 0.06  & 0.07  & 0.08   \\ \midrule
+\textbf{Trial 1  Period (s)}             & 0.334  & 0.329 & 0.332 & 0.359  \\
+\textbf{Trial 2 Period (s)}              & 0.3515 & 0.353 & 0.354 & 0.3295 \\
+\textbf{Average Period (s)}              & 0.3427 & 0.341 & 0.343 & 0.3442 \\
+\textbf{Average Velocity (m/s)}          & 3.666  & 3.685 & 3.663 & 3.65   \\
+\textbf{Expected F\textsubscript{c} (N)} & 0.49   & 0.588 & 0.686 & 0.784  \\
+\textbf{Actual F\textsubscript{c} (N)}   & 1.072  & 1.083 & 1.07  & 1.062  \\ \bottomrule
+\end{tabular}%
+}
+\label{tab:part1Tab}
+\end{table}
+
+\begin{table}[H]
+\centering
+\captionsetup{font=Large}
+\caption{Part 2}
+\label{tab:part2Tab}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{@{}ccccc@{}}
+\toprule
+\textbf{Mass (kg)}                       & 0.05   & 0.06   & 0.07   & 0.08   \\ \midrule
+\textbf{Theoretical Velocity (m/s)}      & 2.478  & 2.715  & 2.932  & 3.135  \\
+\textbf{Theoretical Period (s)}          & 0.5069 & 0.4627 & 0.4284 & 0.4007 \\
+\textbf{Actual Period (from part 1) (s)} & 0.3427 & 0.341  & 0.343  & 0.3442 \\
+\textbf{Percent Error}                   & 32.39  & 26.31  & 19.94  & 14.1   \\ \bottomrule
+\end{tabular}%
 }
 \end{table}
-\end{landscape}
+
+\begin{table}[H]
+\centering
+\captionsetup{font=Large}
+\caption{Part 3}
+\label{tab:part3Tab}
+\resizebox{\columnwidth}{!}{%
+\begin{tabular}{@{}ccccc@{}}
+\toprule
+\textbf{Radius (m)}             & 0.1    & 0.15   & 0.2    & 0.3    \\ \midrule
+\textbf{Trial 1  Period (s)}    & 0.273  & 0.7    & 0.5015 & 0.5625 \\
+\textbf{Trial 2 Period (s)}     & 0.252  & 0.4575 & 0.5015 & 11.36  \\
+\textbf{Average Period (s)}     & 0.2625 & 0.5787 & 0.5015 & 5.961  \\
+\textbf{Average Velocity (m/s)} & 2.393  & 1.628  & 2.505  & 0.3162 \\
+\textbf{F\textsubscript{c} (N)} & 0.9138 & 0.2819 & 0.5007 & 0.0053 \\ \bottomrule
+\end{tabular}%
+}
+\end{table}
+
+\newpage
 %----TABLES-----%
 
 %----GRAPHS-----%
-
+\subsection{Graphs}
 % \begin{landscape}
 % \subsection{Graphs}
 % \begin{figure}[H]
