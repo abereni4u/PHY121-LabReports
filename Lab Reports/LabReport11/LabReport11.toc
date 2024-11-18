@@ -15,4 +15,5 @@
 \contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {percent error between theoretical period and measured period using values from part 3}}}{5}{}%
 \contentsline {subsection}{Tables}{6}{}%
 \contentsline {subsection}{Graphs}{7}{}%
-\contentsline {section}{Conclusion}{9}{}%
+\contentsline {section}{Questions}{9}{}%
+\contentsline {section}{Conclusion}{10}{}%

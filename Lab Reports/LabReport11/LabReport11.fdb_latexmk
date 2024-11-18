@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1731960519.65057 "LabReport11.tex" "LabReport11.pdf" "LabReport11" 1731960524.59263 0
+["pdflatex"] 1731961263.32392 "LabReport11.tex" "LabReport11.pdf" "LabReport11" 1731961267.88438 0
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/fontname/texfonts.map" 1710106625 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1710106625 5472554 f7861620179a71a79d4bd86251f559d0 ""
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1710106625 1004 54797486969f23fa377b128694d548df ""
@@ -198,11 +198,12 @@
   "/usr/local/Cellar/texlive/20240312_1/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1710106625 8221728 6ad968c4cf6ec94c671719186a970bed ""
   "CalculationsGraphs.tex" 1731960168.77699 7112 45db244b25a19f8b0f04e6baa375723c ""
   "Conclusion.tex" 1730390039.27493 4305 5d8989ede70b696cb1efec9852fe0704 ""
-  "LabReport11.aux" 1731960523.97379 3447 537f36e60bd3d30dec262af777a141da "pdflatex"
-  "LabReport11.tex" 1731960491.52521 3202 eb75c96a2cb8bd246dd811c8725b28e4 ""
-  "LabReport11.toc" 1731960523.97677 1193 e531c47c7a9e810175c8fa0de4af895a "pdflatex"
+  "LabReport11.aux" 1731961267.37747 3530 8c3a025ff226f4fba824c4f76fa4f776 "pdflatex"
+  "LabReport11.tex" 1731961254.83585 3201 77185a6a5da002b936ee4567335c369d ""
+  "LabReport11.toc" 1731961267.38 1235 59381c7a7c2b92cde40abcdca76c9b13 "pdflatex"
   "Procedure.tex" 1731901204.64509 1886 615a53313122b504317486424877e8d3 ""
-  "Purpose.tex" 1731563319.9753 198 edc8ab521fe2958b116eaf8520ffeadc ""
+  "Purpose.tex" 1731960995.93702 135 2cfa9a3f62122122c459e98924997297 ""
+  "Questions.tex" 1731961228.67728 1937 b480bf186f4495347d553d2be6bae153 ""
   "Theory.tex" 1731565419.37527 1758 78e70849e49f8f4a553d8e2748c2033a ""
   "images/dutchess-logo-blue.png" 1728084513 11580 da0260fd27bfee2eeaabfb583d83fa34 ""
   "images/p1Actual.png" 1731959642.17056 199284 5b132c7d9a83d2b59cef88bb2ba3c38e ""
