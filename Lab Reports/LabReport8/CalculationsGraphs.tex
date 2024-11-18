@@ -158,10 +158,14 @@
 \toprule
 \textbf{Radius (m)}             & 0.1    & 0.15   & 0.2    & 0.3    \\ \midrule
 \textbf{Trial 1  Period (s)}    & 0.273  & 0.7    & 0.5015 & 0.5625 \\
-\textbf{Trial 2 Period (s)}     & 0.252  & 0.4575 & 0.5015 & 11.36  \\
-\textbf{Average Period (s)}     & 0.2625 & 0.5787 & 0.5015 & 5.961  \\
-\textbf{Average Velocity (m/s)} & 2.393  & 1.628  & 2.505  & 0.3162 \\
-\textbf{F\textsubscript{c} (N)} & 0.9138 & 0.2819 & 0.5007 & 0.0053 \\ \bottomrule
+\textbf{Trial 2 Period (s)}     & 0.252  & 0.4575 & 0.5015 & 0.568  \\
+\textbf{Average Period (s)}     & 0.2625 & 0.5787 & 0.5015 & 0.5652  \\
+\textbf{Expected Velocity (m/s)} & 2.146  & 2.629  & 3.035  & 3.718 \\
+\textbf{Average Velocity (m/s)} & 2.393  & 1.628  & 2.505  & 3.335 \\
+\textbf{Percent Error Velocity (\%)} & 11.50  & 38.07  & 17.46  & 10.30 \\
+\textbf{Expected F\textsubscript{c} (N)} & 0.735 & 0.735 & 0.735 & 0.735 \\ 
+\textbf{Actual F\textsubscript{c} (N)} & 0.9133 & 0.2818 & 0.5004 & 0.5913 \\ 
+\textbf{Percent Error F\textsubscript{c} (\%)} & 24.25  & 61.65  & 31.91  & 19.55 \\ \bottomrule
 \end{tabular}%
 }
 \end{table}
@@ -181,6 +185,43 @@
 % 	\end{center}
 % \end{figure}
 % \end{landscape}
+
+\begin{figure}[H]
+	\captionsetup{font=Large}
+	\caption{Part 1: Actual F\textsubscript{c} vs Actual Average Velocity}
+	\begin{center}
+		\includegraphics[width=0.90\textwidth]{images/p1Actual}
+	\end{center}
+	\label{fig:p1Actual}
+\end{figure}
+
+\begin{figure}[H]
+	\captionsetup{font=Large}
+	\caption{Part 1: Expected F\textsubscript{c} vs Expected Velocity}
+	\begin{center}
+		\includegraphics[width=0.90\textwidth]{images/p1Expected}
+	\end{center}
+	\label{fig:p1Expected}
+\end{figure}
+
+
+\begin{figure}[H]
+	\captionsetup{font=Large}
+	\caption{Part 3: Radius vs Actual Average Velocity}
+	\begin{center}
+		\includegraphics[width=0.90\textwidth]{images/p3Actual}
+	\end{center}
+	\label{fig:p3Actual}
+\end{figure}
+
+\begin{figure}[H]
+	\captionsetup{font=Large}
+	\caption{Part 3: Radius vs Expected Velocity}
+	\begin{center}
+		\includegraphics[width=0.90\textwidth]{images/p3Expected}
+	\end{center}
+	\label{fig:p3Expected}
+\end{figure}
 
 %----GRAPHS-----%
 
