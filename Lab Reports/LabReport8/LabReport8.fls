@@ -369,6 +369,11 @@ INPUT ./images/p3Expected.png
 INPUT ./images/p3Expected.png
 INPUT ./images/p3Expected.png
 INPUT ./images/p3Expected.png
+INPUT ./Questions.tex
+INPUT ./Questions.tex
+INPUT ./Questions.tex
+INPUT ./Questions.tex
+INPUT Questions.tex
 INPUT ./Conclusion.tex
 INPUT ./Conclusion.tex
 INPUT ./Conclusion.tex

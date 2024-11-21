@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.17)  18 NOV 2024 15:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.17)  21 NOV 2024 12:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -748,40 +748,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8 <./images/p3Actual.png> <./images/p3Expected.png>]) (./Conclusion.tex
-
-LaTeX Warning: Reference `tab:dataTab' on page 9 undefined on input line 9.
-
-
-LaTeX Warning: Reference `eq:finalV' on page 9 undefined on input line 9.
-
-
-LaTeX Warning: Reference `eq:energyK' on page 9 undefined on input line 9.
-
-
-LaTeX Warning: Reference `eq:energyP' on page 9 undefined on input line 9.
-
-
-LaTeX Warning: Reference `tab:dataTab' on page 9 undefined on input line 9.
-
-
-LaTeX Warning: Reference `eq:energyK' on page 9 undefined on input line 11.
-
-
-LaTeX Warning: Reference `eq:energyP' on page 9 undefined on input line 11.
-
-
-LaTeX Warning: Reference `tab:dataTab' on page 9 undefined on input line 11.
-
-
-LaTeX Warning: Reference `eq:energyK' on page 9 undefined on input line 11.
-
-
-LaTeX Warning: Reference `eq:energyP' on page 9 undefined on input line 11.
-
-
-LaTeX Warning: Reference `eq:finalV' on page 9 undefined on input line 11.
-
+[8 <./images/p3Actual.png> <./images/p3Expected.png>]) (./Questions.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -789,7 +756,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9])
+[9]) (./Conclusion.tex)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -797,29 +764,33 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10] (./LabReport8.aux)
+[10]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11] (./LabReport8.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 27378 strings out of 474116
- 683989 string characters out of 5734122
+ 27382 strings out of 474116
+ 684085 string characters out of 5734122
  1941187 words of memory out of 5000000
- 49273 multiletter control sequences out of 15000+600000
+ 49274 multiletter control sequences out of 15000+600000
  571569 words of font info for 87 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 103i,14n,107p,1230b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 103i,14n,107p,1580b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on LabReport8.pdf (11 pages, 530684 bytes).
+Output written on LabReport8.pdf (12 pages, 533281 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
+ 107 PDF objects out of 1000 (max. 8388607)
+ 62 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  38 words of extra memory for PDF output out of 10000 (max. 10000000)
 
