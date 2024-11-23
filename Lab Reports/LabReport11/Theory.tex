@@ -2,49 +2,31 @@
 \vspace{-0.5cm}
 \singlespacing
 
-\textit{Uniform circular motion} is the motion of an object in a circle at a constant velocity. Although the velocity of the object is constant, the direction is constantly changing in the circle, and thus there is acceleration. This specific type of acceleration, wherein the magnitude of velocity is constant but its direction is changing, is called \textit{centripetal acceleration} and is determined with the following equation.
+\textit{Torque} is the measure of force needed to cause an object to rotate. Torque can be calculated by multiplying the force applied to an object, the radius of that force from the object's pivot point, and the angle between the component of the force that is perpendicular to the pivot axis. This relationship between the angle of the force applied, and an object's pivot point can be represented using the following equation:
 
-{\centering{
-		\begin{equation*}
-			a_c = \frac{v^2}{r}	
-		\end{equation*}
-\vspace{-0.7cm}
 \begin{align*}
-	\mathbf{a_c} &: \text{Centripetal acceleration} \\
-	\mathbf{v} &: \text{Velocity of object} \\
-\mathbf{r} &: \text{Radius of circle} 
+	T = \left| r \right | \left | F \right| \sin \theta 
 \end{align*}
-}}
 
-Since there is an acceleration, there must be a force, so using Newton's Second Law, the formula for the \textit{centripetal force} is given by:
+Since gravity is a force that acts on all parts of an object, it applies torque at multiple points at the same time. Instead of calculating the torque caused by gravity at multiple positions on an object, a single position, the object's \textit{center of mass}, is used. Objects with a uniform distribution of mass, typically symmetrical with no varying mass, usually have their center of mass right at the center as shown below:
 
-{\centering{
-		\begin{equation*}
-			F_c = m\frac{v^2}{r}	
-		\end{equation*}
-\vspace{-0.7cm}
+\begin{figure}[H]
+	\begin{center}
+		\includegraphics[width=0.55\textwidth]{comEx.jpg}
+	\end{center}
+	\caption{Symmetrical objects usually have their center of mass...at the center.}\label{fig:comEx}
+\end{figure}
+
+An object's center of mass can be calculated using the following equation:
+
 \begin{align*}
-	\mathbf{F_c} &: \text{Centripetal force} \\
-	\mathbf{m} &: \text{Mass of object} \\
-	\mathbf{v} &: \text{Velocity of object} \\
-	\mathbf{r} &: \text{Radius of circle} 
+	x_\text{com} &= \frac{m_1x_1 + m_2x_2 + ...}{M_T} \\ \\
+x_\text{com} &: \text{center of mass} \\
+	m_1 &: \text{mass of object 1} \\
+	m_2 &: \text{mass of object 2} \\
+	x_1 &: \text{position of object 1} \\
+	x_2 &: \text{position of object 2} \\
+	M_T &: \text{total mass of system}
 \end{align*}
-}}
-
-Velocity is equal to displacement over time. When dealing with circles, the magnitude of displacement will equal the circumference of the circle. Based off that, the formula for velocity of an object on a circular path is given by:
-
-
-{\centering{
-		\begin{equation*}
-			v = \frac{2 \pi r}{t}	
-		\end{equation*}
-\vspace{-0.7cm}
-\begin{align*}
-	\mathbf{v} &: \text{Velocity of object} \\
-	\mathbf{r} &: \text{Radius of object} \\
-	\mathbf{t} &: \text{Time for object to complete on revolution on circular path} \\
-	\mathbf{r} &: \text{Radius of circle} 
-\end{align*}
-}}
 
 \newpage

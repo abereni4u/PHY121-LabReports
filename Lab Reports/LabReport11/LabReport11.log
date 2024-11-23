@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.17)  18 NOV 2024 15:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.17)  23 NOV 2024 12:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -667,6 +667,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [1] (./Purpose.tex) (./Theory.tex
+<images/comEx.jpg, id=18, 3102.59125pt x 851.18pt>
+File: images/comEx.jpg Graphic file (type jpg)
+<use images/comEx.jpg>
+Package pdftex.def Info: images/comEx.jpg  used on input line 15.
+(pdftex.def)             Requested size: 233.23447pt x 63.9786pt.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -674,11 +680,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[2]) (./Procedure.tex
-Underfull \hbox (badness 10000) in paragraph at lines 49--50
-
- []
-
+[2 <./images/comEx.jpg>]) (./Procedure.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -711,21 +713,61 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [6]
-<images/p1Actual.png, id=41, 461.652pt x 286.014pt>
-File: images/p1Actual.png Graphic file (type png)
-<use images/p1Actual.png>
-Package pdftex.def Info: images/p1Actual.png  used on input line 193.
-(pdftex.def)             Requested size: 381.6517pt x 236.46198pt.
-<images/p1Expected.png, id=42, 461.652pt x 284.919pt>
-File: images/p1Expected.png Graphic file (type png)
-<use images/p1Expected.png>
-Package pdftex.def Info: images/p1Expected.png  used on input line 202.
-(pdftex.def)             Requested size: 381.6517pt x 235.55667pt.
-<images/p3Actual.png, id=43, 462.528pt x 279.882pt>
-File: images/p3Actual.png Graphic file (type png)
-<use images/p3Actual.png>
-Package pdftex.def Info: images/p3Actual.png  used on input line 212.
-(pdftex.def)             Requested size: 381.6517pt x 230.95245pt.
+
+./CalculationsGraphs.tex:193: LaTeX Error: File `images/p1Actual' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.193 ...cs[width=0.90\textwidth]{images/p1Actual}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./CalculationsGraphs.tex:202: LaTeX Error: File `images/p1Expected' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.202 ...[width=0.90\textwidth]{images/p1Expected}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./CalculationsGraphs.tex:212: LaTeX Error: File `images/p3Actual' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.212 ...cs[width=0.90\textwidth]{images/p3Actual}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+./CalculationsGraphs.tex:221: LaTeX Error: File `images/p3Expected' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.221 ...[width=0.90\textwidth]{images/p3Expected}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -734,12 +776,47 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7 <./images/p1Actual.png> <./images/p1Expected.png>]
-<images/p3Expected.png, id=49, 461.652pt x 286.014pt>
-File: images/p3Expected.png Graphic file (type png)
-<use images/p3Expected.png>
-Package pdftex.def Info: images/p3Expected.png  used on input line 221.
-(pdftex.def)             Requested size: 381.6517pt x 236.46198pt.
+[7]) (./Questions.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8]) (./Conclusion.tex
+
+LaTeX Warning: Reference `tab:dataTab' on page 9 undefined on input line 9.
+
+
+LaTeX Warning: Reference `eq:finalV' on page 9 undefined on input line 9.
+
+
+LaTeX Warning: Reference `eq:energyK' on page 9 undefined on input line 9.
+
+
+LaTeX Warning: Reference `eq:energyP' on page 9 undefined on input line 9.
+
+
+LaTeX Warning: Reference `tab:dataTab' on page 9 undefined on input line 9.
+
+
+LaTeX Warning: Reference `eq:energyK' on page 9 undefined on input line 11.
+
+
+LaTeX Warning: Reference `eq:energyP' on page 9 undefined on input line 11.
+
+
+LaTeX Warning: Reference `tab:dataTab' on page 9 undefined on input line 11.
+
+
+LaTeX Warning: Reference `eq:energyK' on page 9 undefined on input line 11.
+
+
+LaTeX Warning: Reference `eq:energyP' on page 9 undefined on input line 11.
+
+
+LaTeX Warning: Reference `eq:finalV' on page 9 undefined on input line 11.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -748,7 +825,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8 <./images/p3Actual.png> <./images/p3Expected.png>]) (./Questions.tex
+[9])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -756,56 +833,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[9]) (./Conclusion.tex
-
-LaTeX Warning: Reference `tab:dataTab' on page 10 undefined on input line 9.
-
-
-LaTeX Warning: Reference `eq:finalV' on page 10 undefined on input line 9.
-
-
-LaTeX Warning: Reference `eq:energyK' on page 10 undefined on input line 9.
-
-
-LaTeX Warning: Reference `eq:energyP' on page 10 undefined on input line 9.
-
-
-LaTeX Warning: Reference `tab:dataTab' on page 10 undefined on input line 9.
-
-
-LaTeX Warning: Reference `eq:energyK' on page 10 undefined on input line 11.
-
-
-LaTeX Warning: Reference `eq:energyP' on page 10 undefined on input line 11.
-
-
-LaTeX Warning: Reference `tab:dataTab' on page 10 undefined on input line 11.
-
-
-LaTeX Warning: Reference `eq:energyK' on page 10 undefined on input line 11.
-
-
-LaTeX Warning: Reference `eq:energyP' on page 10 undefined on input line 11.
-
-
-LaTeX Warning: Reference `eq:finalV' on page 10 undefined on input line 11.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[10])
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[11] (./LabReport11.aux)
+[10] (./LabReport11.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -816,18 +844,18 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 27386 strings out of 474116
- 684150 string characters out of 5734122
+ 27470 strings out of 474116
+ 686278 string characters out of 5734122
  1941187 words of memory out of 5000000
- 49278 multiletter control sequences out of 15000+600000
- 571569 words of font info for 87 fonts, out of 8000000 for 9000
+ 49362 multiletter control sequences out of 15000+600000
+ 571877 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  103i,14n,107p,1231b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on LabReport11.pdf (12 pages, 532522 bytes).
+</usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on LabReport11.pdf (11 pages, 272658 bytes).
 PDF statistics:
- 107 PDF objects out of 1000 (max. 8388607)
- 62 compressed objects within 1 object stream
+ 112 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 38 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
