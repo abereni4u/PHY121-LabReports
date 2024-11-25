@@ -2,15 +2,10 @@
 \contentsline {section}{Theory}{2}{}%
 \contentsline {section}{Procedure}{3}{}%
 \contentsline {section}{Calculations \& Graphs}{4}{}%
-\contentsline {subsection}{Tangential Velocity}{4}{}%
-\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {using part 1 data with 50 g of weight}}}{4}{}%
-\contentsline {subsection}{Centripetal Force}{4}{}%
-\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {using expected velocity in part 2 with 50 g}}}{4}{}%
-\contentsline {subsection}{Average Value Formula}{5}{}%
-\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {average period using Part 1 at 50 g}}}{5}{}%
-\contentsline {subsection}{Percent Error}{5}{}%
-\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {percent error between theoretical period and measured period using values from part 3}}}{5}{}%
-\contentsline {subsection}{Tables}{6}{}%
-\contentsline {subsection}{Graphs}{7}{}%
-\contentsline {section}{Questions}{8}{}%
-\contentsline {section}{Conclusion}{9}{}%
+\contentsline {subsection}{Center of Mass}{4}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {using values from Scenario 1}}}{4}{}%
+\contentsline {subsection}{Percent Error}{4}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {percent error between measured and calculated position for 100 g in Scenario 1}}}{4}{}%
+\contentsline {subsection}{Graphs \& Tables}{5}{}%
+\contentsline {section}{Questions}{6}{}%
+\contentsline {section}{Conclusion}{7}{}%

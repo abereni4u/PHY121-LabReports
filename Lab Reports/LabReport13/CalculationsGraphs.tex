@@ -6,49 +6,70 @@
 
 %------- Force --------%
 
-\subsection{Tangential Velocity} 
+\subsection{Spring Constant of Spring} 
 
 {\centering
 \begin{equation}
-	v =  \frac{2 \pi r}{t} 
-	\label{eq:tvelocity}
+	k =  \frac{-F}{x} 
+	\label{eq:springK}
 \end{equation}
 \begin{align*}
-	\mathbf{v} &: \text{velocity} \\
-	\mathbf{r} &: \text{radius of circle} \\
-	\mathbf{t} &: \text{time for 1 revolution}
+	k &: \text{spring constant} \\
+	\mathbf{F} &: \text{weight of hanging mass} \\
+	x &: \text{equilibrium position}
 \end{align*}}
 
-\subsubsection{Sample Calculation \\ {\normalfont \small\textit{using part 1 data with 50 g of weight}}}
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{using average force of part 1}}}
 
 {\centering
 \begin{align*}
-	v &=  \frac{2 \pi r}{t} \\ \\
+	k &=  \frac{-F}{x} \\ \\
 		&=  \frac{2 \pi (0.2\text{ m})}{0.3426\text{ s}} \\ \\
 	v	&= \boxed{3.666 \text{ m/s}} 
 \end{align*}}
 
 %------- ACCELERATION BETWEEN TWO POINTS WITH INITIAL VELOCITY CLOSE TO ZERO--------%
 
-\subsection{Centripetal Force} 
+\subsection{Period of a Spring with A Hanging Mass} 
 
 {\centering
 \begin{equation}
-	\text{F\textsubscript{c}} = \frac{mv^2}{r}
-	\label{eq:centriForce}
+	\text{T} = 2\pi \sqrt{\frac{m}{k}}
+	\label{eq:springMass}
 \end{equation}
 \begin{align*}
-	\mathbf{F_c} &: \text{centripetal force} \\
-	\mathbf{m} &: \text{mass of object} \\
-	\mathbf{v} &: \text{tangential velocity of object} \\
-	\mathbf{r} &: \text{radius of circle}
+	\text{T} &: \text{period} \\
+	m &: \text{mass of hanging weight and spring} \\
+	k &: \text{spring constant}
 \end{align*}}
 
-\subsubsection{Sample Calculation \\ {\normalfont \small\textit{using expected velocity in part 2 with 50 g}}}
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{part 1, mass of 50 g}}}
 
 {\centering
 \begin{align*}
-	\text{F\textsubscript{c}}  &= \frac{mv^2}{r} \\
+	\text{T} &= 2\pi \sqrt{\frac{m}{k}} \\ \\
+			&= \frac{(0.012\text{ kg})(2.858\text{ m/s})^2}{0.2\text{ m}} \\
+	\text{F\textsubscript{c}}  &= \boxed{0.49\,\text{N}}
+\end{align*}}
+
+\subsection{Period of a Pendulum} 
+
+{\centering
+\begin{equation}
+	\text{T} = 2\pi \sqrt{\frac{l}{g}}
+	\label{eq:pendulum}
+\end{equation}
+\begin{align*}
+	\text{T} &: \text{period} \\
+	l &: \text{length of pendulum} \\
+	g &: \text{acceleration due to gravity}
+\end{align*}}
+
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{part 1, mass of 50 g}}}
+
+{\centering
+\begin{align*}
+	\text{T} &= 2\pi \sqrt{\frac{l}{g}} \\ \\
 			&= \frac{(0.012\text{ kg})(2.858\text{ m/s})^2}{0.2\text{ m}} \\
 	\text{F\textsubscript{c}}  &= \boxed{0.49\,\text{N}}
 \end{align*}}
@@ -56,18 +77,21 @@
 %------- ACCELERATION BETWEEN TWO POINTS --------%
 
 %------- AVERAGE VALUE --------%
-\subsection{Average Value Formula} 
+
+
+\subsection{Fractional Discrepancy}
+\vspace{0.5cm}
+\begin{equation}
+	\text{FD}	= \left| \frac{\text{measured - actual}}{\text{actual}} \right|\
+	\label{eq:fdisc}
+\end{equation}
+
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{percent error between theoretical period and measured period using values from part 3}}}
 
 \begin{align*}
-	\overline{a} = \frac{\text{sum of values}}{\text{total \# of values}} 
-\end{align*}
-
-\subsubsection{Sample Calculation \\ {\normalfont \small\textit{average period using Part 1 at 50 g}}}
-
-\begin{align*}
-	\overline{a}&=\frac{\text{sum of values}}{\text{total \# of values}} \\ \\
-							&= \frac{0.334\text{ s}+0.3515\text{ s}}{2} \\ \\
-	\overline{a}&= \boxed{0.3426\,\text{s}}
+	\text{FD}	&= \left| \frac{\text{measured - actual}}{\text{actual}} \right|\ \\ \\
+	\text{FD}	&= \left| \frac{\text{0.3426\text{ s} - 0.5071\text{ s}}}{\text{0.5071\text{ s}}} \right|\ \\ \\
+			FD &= \boxed{32.41\%} 
 \end{align*}
 %------- AVERAGE VALUE --------%
 
