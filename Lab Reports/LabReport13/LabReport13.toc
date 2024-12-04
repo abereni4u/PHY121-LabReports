@@ -1,0 +1,19 @@
+\contentsline {section}{Purpose}{2}{}%
+\contentsline {section}{Theory}{2}{}%
+\contentsline {section}{Procedure}{3}{}%
+\contentsline {subsection}{Part 1: Measuring Spring Constant}{3}{}%
+\contentsline {subsection}{Part 2: Measuring The Period}{3}{}%
+\contentsline {subsection}{Part 3: Pendulum}{3}{}%
+\contentsline {section}{Calculations \& Graphs}{4}{}%
+\contentsline {subsection}{Period of a Spring with A Hanging Mass}{4}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {part 2, expected period for mass of 15 g}}}{4}{}%
+\contentsline {subsection}{Period of a Pendulum}{4}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {part 2, expected period for ideal pendulum}}}{4}{}%
+\contentsline {subsection}{Fractional Discrepancy}{5}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {percent error between ideal period and measured period using values from part 3}}}{5}{}%
+\contentsline {subsection}{Percent Error}{5}{}%
+\contentsline {subsubsection}{Sample Calculation \\ {\normalfont \small \textit {percent error between ideal period and measured period using values from part 3}}}{5}{}%
+\contentsline {subsection}{Tables}{6}{}%
+\contentsline {subsection}{Graphs}{7}{}%
+\contentsline {section}{Questions}{8}{}%
+\contentsline {section}{Conclusion}{9}{}%
