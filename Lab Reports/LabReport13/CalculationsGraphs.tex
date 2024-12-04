@@ -6,28 +6,6 @@
 
 %------- Force --------%
 
-\subsection{Spring Constant of Spring} 
-
-{\centering
-\begin{equation}
-	k =  \frac{-F}{x} 
-	\label{eq:springK}
-\end{equation}
-\begin{align*}
-	k &: \text{spring constant} \\
-	\mathbf{F} &: \text{weight of hanging mass} \\
-	x &: \text{equilibrium position}
-\end{align*}}
-
-\subsubsection{Sample Calculation \\ {\normalfont \small\textit{using average force of part 1}}}
-
-{\centering
-\begin{align*}
-	k &=  \frac{-F}{x} \\ \\
-		&=  \frac{2 \pi (0.2\text{ m})}{0.3426\text{ s}} \\ \\
-	v	&= \boxed{3.666 \text{ m/s}} 
-\end{align*}}
-
 %------- ACCELERATION BETWEEN TWO POINTS WITH INITIAL VELOCITY CLOSE TO ZERO--------%
 
 \subsection{Period of a Spring with A Hanging Mass} 
@@ -43,13 +21,13 @@
 	k &: \text{spring constant}
 \end{align*}}
 
-\subsubsection{Sample Calculation \\ {\normalfont \small\textit{part 1, mass of 50 g}}}
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{part 2, expected period for mass of 15 g}}}
 
 {\centering
 \begin{align*}
 	\text{T} &= 2\pi \sqrt{\frac{m}{k}} \\ \\
-			&= \frac{(0.012\text{ kg})(2.858\text{ m/s})^2}{0.2\text{ m}} \\
-	\text{F\textsubscript{c}}  &= \boxed{0.49\,\text{N}}
+					 &= 2\pi \sqrt{\frac{0.31\text{ kg}}{8.0051}} \\ \\
+	\text{T}  &= \boxed{1.236\,\text{s}}
 \end{align*}}
 
 \subsection{Period of a Pendulum} 
@@ -65,13 +43,15 @@
 	g &: \text{acceleration due to gravity}
 \end{align*}}
 
-\subsubsection{Sample Calculation \\ {\normalfont \small\textit{part 1, mass of 50 g}}}
+\vspace{-1.0cm}
+
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{part 2, expected period for ideal pendulum}}}
 
 {\centering
 \begin{align*}
-	\text{T} &= 2\pi \sqrt{\frac{l}{g}} \\ \\
-			&= \frac{(0.012\text{ kg})(2.858\text{ m/s})^2}{0.2\text{ m}} \\
-	\text{F\textsubscript{c}}  &= \boxed{0.49\,\text{N}}
+	\text{T} &= 2\pi \sqrt{\frac{l}{g}} \\
+					 &= 2\pi \sqrt{\frac{1\text{ m}}{9.8\text{ m/s\textsuperscript{2}}}} \\
+	\text{T}  &= \boxed{2\,\text{ s}}
 \end{align*}}
 
 %------- ACCELERATION BETWEEN TWO POINTS --------%
@@ -86,12 +66,12 @@
 	\label{eq:fdisc}
 \end{equation}
 
-\subsubsection{Sample Calculation \\ {\normalfont \small\textit{percent error between theoretical period and measured period using values from part 3}}}
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{percent error between ideal period and measured period using values from part 3}}}
 
 \begin{align*}
 	\text{FD}	&= \left| \frac{\text{measured - actual}}{\text{actual}} \right|\ \\ \\
-	\text{FD}	&= \left| \frac{\text{0.3426\text{ s} - 0.5071\text{ s}}}{\text{0.5071\text{ s}}} \right|\ \\ \\
-			FD &= \boxed{32.41\%} 
+	\text{FD}	&= \left| \frac{\text{1.986\text{ s} - 2\text{ s}}}{\text{2\text{ s}}} \right|\ \\ \\
+	\text{FD} &= \boxed{0.007} 
 \end{align*}
 %------- AVERAGE VALUE --------%
 
@@ -124,128 +104,92 @@
 	\label{eq:perror}
 \end{equation}
 
-\subsubsection{Sample Calculation \\ {\normalfont \small\textit{percent error between theoretical period and measured period using values from part 3}}}
+\subsubsection{Sample Calculation \\ {\normalfont \small\textit{percent error between ideal period and measured period using values from part 3}}}
 
 \begin{align*}
 	\text{PD}	&= \left| \frac{\text{measured - actual}}{\text{actual}} \right|\: \text{x}\: 100\% \\ \\
-	\text{PD}	&= \left| \frac{\text{0.3426\text{ s} - 0.5071\text{ s}}}{\text{0.5071\text{ s}}} \right|\: \text{x}\: 100\% \\ \\
-			PD &= \boxed{32.41\%} 
+	\text{PD}	&= \left| \frac{\text{1.986\text{ s} - 2\text{ s}}}{\text{2\text{ s}}} \right|\: \text{x}\: 100\% \\ \\
+	\text{PD} &= \boxed{0.7\%} 
 \end{align*}
 %------- RELATIVE ERROR --------%
 
 %----TABLES-----%
 \subsection{Tables}
 
-\begin{table}[H]
+\begin{table} [H]
 \centering
-\captionsetup{font=Large}
-\caption{Part 1 }
-\resizebox{\columnwidth}{!}{%
-\begin{tabular}{@{}ccccc@{}}
+\captionsetup{font=large}
+\caption{Part 1 - Spring Constant Table}
+\label{tab:p1tab}
+\resizebox{\linewidth}{!}{%
+\begin{tabular}{ccccccccc} 
 \toprule
-\textbf{Mass (kg)}                       & 0.05   & 0.06  & 0.07  & 0.08   \\ \midrule
-\textbf{Trial 1  Period (s)}             & 0.334  & 0.329 & 0.332 & 0.359  \\
-\textbf{Trial 2 Period (s)}              & 0.3515 & 0.353 & 0.354 & 0.3295 \\
-\textbf{Average Period (s)}              & 0.3427 & 0.341 & 0.343 & 0.3442 \\
-\textbf{Average Velocity (m/s)}          & 3.666  & 3.685 & 3.663 & 3.65   \\
-\textbf{Expected F\textsubscript{c} (N)} & 0.49   & 0.588 & 0.686 & 0.784  \\
-\textbf{Actual F\textsubscript{c} (N)}   & 1.072  & 1.083 & 1.07  & 1.062  \\ \bottomrule
-\end{tabular}%
-}
-\label{tab:part1Tab}
-\end{table}
-
-\begin{table}[H]
-\centering
-\captionsetup{font=Large}
-\caption{Part 2}
-\label{tab:part2Tab}
-\resizebox{\columnwidth}{!}{%
-\begin{tabular}{@{}ccccc@{}}
+\textbf{Mass (kg)}    & 0.05  & 0.1   & 0.15  & 0.2   & 0.25  & 0.3   & 0.35  & 0.4    \\ 
 \toprule
-\textbf{Mass (kg)}                       & 0.05   & 0.06   & 0.07   & 0.08   \\ \midrule
-\textbf{Theoretical Velocity (m/s)}      & 2.478  & 2.715  & 2.932  & 3.135  \\
-\textbf{Theoretical Period (s)}          & 0.5069 & 0.4627 & 0.4284 & 0.4007 \\
-\textbf{Actual Period (from part 1) (s)} & 0.3427 & 0.341  & 0.343  & 0.3442 \\
-\textbf{Percent Error}                   & 32.39  & 26.31  & 19.94  & 14.1   \\ \bottomrule
-\end{tabular}%
+\textbf{Weight (N)}   & 0.49  & 0.98  & 1.47  & 1.96  & 2.45  & 2.94  & 3.43  & 3.92   \\
+\textbf{Position (m)} & 0.555 & 0.615 & 0.675 & 0.735 & 0.795 & 0.855 & 0.915 & 0.989  \\ 
+\toprule
+\multicolumn{9}{c}{\textbf{\textbf{Mass of Spring (kg)}} 0.16}                         \\
+\bottomrule
+\end{tabular}
 }
 \end{table}
 
 \begin{table}[H]
 \centering
-\captionsetup{font=Large}
-\caption{Part 3}
-\label{tab:part3Tab}
-\resizebox{\columnwidth}{!}{%
-\begin{tabular}{@{}ccccc@{}}
+\captionsetup{font=large}
+\caption{Part 2 - Periods of Different Hanging Masses}
+\label{tab:p2tab}
+\resizebox{\linewidth}{!}{%
+\begin{tabular}{ccccc} 
 \toprule
-\textbf{Radius (m)}             & 0.1    & 0.15   & 0.2    & 0.3    \\ \midrule
-\textbf{Trial 1  Period (s)}    & 0.273  & 0.7    & 0.5015 & 0.5625 \\
-\textbf{Trial 2 Period (s)}     & 0.252  & 0.4575 & 0.5015 & 0.568  \\
-\textbf{Average Period (s)}     & 0.2625 & 0.5787 & 0.5015 & 0.5652  \\
-\textbf{Expected Velocity (m/s)} & 2.146  & 2.629  & 3.035  & 3.718 \\
-\textbf{Average Velocity (m/s)} & 2.393  & 1.628  & 2.505  & 3.335 \\
-\textbf{Percent Error Velocity (\%)} & 11.50  & 38.07  & 17.46  & 10.30 \\
-\textbf{Expected F\textsubscript{c} (N)} & 0.735 & 0.735 & 0.735 & 0.735 \\ 
-\textbf{Actual F\textsubscript{c} (N)} & 0.9133 & 0.2818 & 0.5004 & 0.5913 \\ 
-\textbf{Percent Error F\textsubscript{c} (\%)} & 24.25  & 61.65  & 31.91  & 19.55 \\ \bottomrule
-\end{tabular}%
+\textbf{Mass (kg)}              & 0.15   & 0.25   & 0.35   & 0.45    \\ 
+\toprule
+\textbf{Period (s)}             & 1.19   & 1.38   & 1.55   & 1.68    \\
+\textbf{Measured T (s)}         & 1.19   & 1.38   & 1.55   & 1.68    \\
+\textbf{Predicted T (s)}        & 1.236  & 1.421  & 1.585  & 1.734   \\ 
+\toprule
+\textbf{Fractional Discrepancy} & 0.0375 & 0.0295 & 0.0226 & 0.0313  \\
+\bottomrule
+\end{tabular}
 }
 \end{table}
 
-\newpage
+\begin{table}[H]
+\centering
+\captionsetup{font=large}
+\caption{Part 3 - Period of A Pendulum}
+\label{tab:p3tab}
+\resizebox{\linewidth}{!}{%
+\begin{tabular}{cccc} 
+\toprule
+\textbf{Time for 5 Cycles (s)}                 & 9.93  & 9.89  & 9.93   \\ 
+\toprule
+\textbf{Measured T (s)}                        & 1.986 & 1.978 & 1.986  \\
+\textbf{Ideal T (s)}                           & 2     & 2     & 2      \\
+\textbf{Real T (s)}                            & 1.778 & 1.754 & 1.756  \\ 
+\toprule
+\textbf{~Error Between Measured \& Ideal (\%)} & 0.7   & 1.1   & 0.7    \\
+\textbf{Error Between Measured \& Real (\%)~}  & 11.69 & 12.77 & 13.09  \\
+\bottomrule
+\end{tabular}
+}
+\end{table}
 %----TABLES-----%
 
-%----GRAPHS-----%
+\begin{landscape}
 \subsection{Graphs}
-% \begin{landscape}
-% \subsection{Graphs}
-% \begin{figure}[H]
-% 	\begin{center}
-% 		\captionsetup{font=Large}
-% 		\caption{Force vs. Acceleration}\label{fig:GFvA}
-% 		\includegraphics[width=0.90\columnwidth]{images/GraphFvA}
-% 	\end{center}
-% \end{figure}
-% \end{landscape}
-
+\vspace{-1cm}
 \begin{figure}[H]
 	\captionsetup{font=Large}
-	\caption{Part 1: Actual F\textsubscript{c} vs Actual Average Velocity}
+	\caption{Part 1: Spring Constant}
 	\begin{center}
-		\includegraphics[width=0.90\textwidth]{images/p1Actual}
+		\includegraphics[width=0.90\columnwidth]{p1graph.png}
 	\end{center}
-	\label{fig:p1Actual}
+	\label{fig:p1Graph}
 \end{figure}
 
-\begin{figure}[H]
-	\captionsetup{font=Large}
-	\caption{Part 1: Expected F\textsubscript{c} vs Expected Velocity}
-	\begin{center}
-		\includegraphics[width=0.90\textwidth]{images/p1Expected}
-	\end{center}
-	\label{fig:p1Expected}
-\end{figure}
-
-
-\begin{figure}[H]
-	\captionsetup{font=Large}
-	\caption{Part 3: Radius vs Actual Average Velocity}
-	\begin{center}
-		\includegraphics[width=0.90\textwidth]{images/p3Actual}
-	\end{center}
-	\label{fig:p3Actual}
-\end{figure}
-
-\begin{figure}[H]
-	\captionsetup{font=Large}
-	\caption{Part 3: Radius vs Expected Velocity}
-	\begin{center}
-		\includegraphics[width=0.90\textwidth]{images/p3Expected}
-	\end{center}
-	\label{fig:p3Expected}
-\end{figure}
+\end{landscape}
 
 %----GRAPHS-----%
 
