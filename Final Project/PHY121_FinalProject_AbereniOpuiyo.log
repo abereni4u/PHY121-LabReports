@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.17)  5 NOV 2024 23:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024/Homebrew) (preloaded format=pdflatex 2024.7.17)  10 DEC 2024 23:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -323,38 +323,33 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [1]
-Underfull \hbox (badness 10000) in paragraph at lines 133--134
+Underfull \hbox (badness 10000) in paragraph at lines 123--125
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 
  []
 
 <U1_P1_A.png, id=14, 1525.7pt x 403.5075pt>
 File: U1_P1_A.png Graphic file (type png)
 <use U1_P1_A.png>
-Package pdftex.def Info: U1_P1_A.png  used on input line 139.
+Package pdftex.def Info: U1_P1_A.png  used on input line 131.
 (pdftex.def)             Requested size: 339.24956pt x 89.7201pt.
 
-./PHY121_FinalProject_AbereniOpuiyo.tex:141: LaTeX Error: There's no line here to end.
+./PHY121_FinalProject_AbereniOpuiyo.tex:133: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.141 
+l.133 
       
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 143--144
-
- []
-
-<U1_P1_B.png, id=15, 1968.35374pt x 549.05125pt>
-File: U1_P1_B.png Graphic file (type png)
-<use U1_P1_B.png>
-Package pdftex.def Info: U1_P1_B.png  used on input line 149.
-(pdftex.def)             Requested size: 339.24956pt x 94.62766pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -363,96 +358,77 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [2 <./U1_P1_A.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+<U1_P1_B.png, id=20, 1968.35374pt x 549.05125pt>
+File: U1_P1_B.png Graphic file (type png)
+<use U1_P1_B.png>
+Package pdftex.def Info: U1_P1_B.png  used on input line 140.
+(pdftex.def)             Requested size: 339.24956pt x 94.62766pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--145
 
  []
 
 <U1_P1_C.png, id=21, 1439.3775pt x 529.98pt>
 File: U1_P1_C.png Graphic file (type png)
 <use U1_P1_C.png>
-Package pdftex.def Info: U1_P1_C.png  used on input line 159.
+Package pdftex.def Info: U1_P1_C.png  used on input line 149.
 (pdftex.def)             Requested size: 339.24956pt x 124.90921pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
-
- []
-
-<U1_P1_D.png, id=22, 1173.38374pt x 467.7475pt>
-File: U1_P1_D.png Graphic file (type png)
-<use U1_P1_D.png>
-Package pdftex.def Info: U1_P1_D.png  used on input line 169.
-(pdftex.def)             Requested size: 339.24956pt x 135.22932pt.
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
 (fancyhdr)                \setlength{\headheight}{14.49998pt}.
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[3 <./U1_P1_B.png> <./U1_P1_C.png> <./U1_P1_D.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
-
- []
-
-<U1_P1_E.png, id=26, 2056.68375pt x 575.14874pt>
-File: U1_P1_E.png Graphic file (type png)
-<use U1_P1_E.png>
-Package pdftex.def Info: U1_P1_E.png  used on input line 180.
-(pdftex.def)             Requested size: 339.24956pt x 94.86911pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 187--188
+[3 <./U1_P1_B.png> <./U1_P1_C.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--190
+Underfull \hbox (badness 10000) in paragraph at lines 159--160
 
  []
 
-<U1_P2_A.png, id=27, 1522.68875pt x 181.67876pt>
+<U1_P2_A.png, id=25, 1522.68875pt x 181.67876pt>
 File: U1_P2_A.png Graphic file (type png)
 <use U1_P2_A.png>
-Package pdftex.def Info: U1_P2_A.png  used on input line 195.
+Package pdftex.def Info: U1_P2_A.png  used on input line 164.
 (pdftex.def)             Requested size: 339.24956pt x 40.47675pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 199--200
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
 
  []
 
-<U1_P2_B.png, id=28, 1709.38625pt x 160.6pt>
+<U1_P2_B.png, id=26, 1709.38625pt x 160.6pt>
 File: U1_P2_B.png Graphic file (type png)
 <use U1_P2_B.png>
-Package pdftex.def Info: U1_P2_B.png  used on input line 205.
+Package pdftex.def Info: U1_P2_B.png  used on input line 173.
 (pdftex.def)             Requested size: 339.24956pt x 31.87192pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 209--210
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
 
  []
 
-<U1_P2_C.png, id=29, 2116.90875pt x 696.6025pt>
+<U1_P2_C.png, id=27, 2116.90875pt x 696.6025pt>
 File: U1_P2_C.png Graphic file (type png)
 <use U1_P2_C.png>
-Package pdftex.def Info: U1_P2_C.png  used on input line 215.
+Package pdftex.def Info: U1_P2_C.png  used on input line 181.
 (pdftex.def)             Requested size: 339.24956pt x 111.62874pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 220--221
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
 
  []
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[4 <./U1_P1_E.png> <./U1_P2_A.png> <./U1_P2_B.png> <./U1_P2_C.png>]
-<U1_P2_D.png, id=33, 1339.0025pt x 457.71pt>
+<U1_P2_D.png, id=28, 1339.0025pt x 457.71pt>
 File: U1_P2_D.png Graphic file (type png)
 <use U1_P2_D.png>
-Package pdftex.def Info: U1_P2_D.png  used on input line 228.
+Package pdftex.def Info: U1_P2_D.png  used on input line 193.
 (pdftex.def)             Requested size: 339.24956pt x 115.96371pt.
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -460,20 +436,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[5 <./U1_P2_D.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 262--263
+[4 <./U1_P2_A.png> <./U1_P2_B.png> <./U1_P2_C.png> <./U1_P2_D.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--266
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
 
  []
 
-<U2_P1_A.png, id=37, 621.32124pt x 868.24374pt>
+<U2_P1_A.png, id=32, 621.32124pt x 868.24374pt>
 File: U2_P1_A.png Graphic file (type png)
 <use U2_P1_A.png>
-Package pdftex.def Info: U2_P1_A.png  used on input line 271.
+Package pdftex.def Info: U2_P1_A.png  used on input line 229.
 (pdftex.def)             Requested size: 127.21939pt x 177.77914pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -482,36 +458,41 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6 <./U2_P1_A.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
+[5 <./U2_P1_A.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 234--235
 
  []
 
-<U2_P1_B.png, id=43, 841.1425pt x 932.48375pt>
+<U2_P1_B.png, id=37, 841.1425pt x 932.48375pt>
 File: U2_P1_B.png Graphic file (type png)
 <use U2_P1_B.png>
-Package pdftex.def Info: U2_P1_B.png  used on input line 282.
-(pdftex.def)             Requested size: 127.21939pt x 141.03326pt.
+Package pdftex.def Info: U2_P1_B.png  used on input line 240.
+(pdftex.def)             Requested size: 169.62154pt x 188.04436pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 285--286
+Underfull \hbox (badness 10000) in paragraph at lines 243--244
 
  []
 
-<U2_P1_C.png, id=44, 923.45pt x 974.64125pt>
+<U2_P1_C.png, id=38, 923.45pt x 974.64125pt>
 File: U2_P1_C.png Graphic file (type png)
 <use U2_P1_C.png>
-Package pdftex.def Info: U2_P1_C.png  used on input line 291.
-(pdftex.def)             Requested size: 127.21939pt x 134.26268pt.
+Package pdftex.def Info: U2_P1_C.png  used on input line 249.
+(pdftex.def)             Requested size: 169.62154pt x 179.01196pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 294--295
+Underfull \hbox (badness 10000) in paragraph at lines 252--253
 
  []
 
-<U2_P1_D.png, id=45, 974.64125pt x 834.11626pt>
+<U2_P1_D.png, id=39, 974.64125pt x 834.11626pt>
 File: U2_P1_D.png Graphic file (type png)
 <use U2_P1_D.png>
-Package pdftex.def Info: U2_P1_D.png  used on input line 300.
-(pdftex.def)             Requested size: 127.21939pt x 108.87166pt.
+Package pdftex.def Info: U2_P1_D.png  used on input line 258.
+(pdftex.def)             Requested size: 169.62154pt x 145.15796pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 263--265
+
+ []
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -519,26 +500,26 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[7 <./U2_P1_B.png> <./U2_P1_C.png> <./U2_P1_D.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 315--316
+[6 <./U2_P1_B.png> <./U2_P1_C.png> <./U2_P1_D.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
 
  []
 
+<U2_P2_A.jpg, id=45, 2615.7725pt x 1698.345pt>
+File: U2_P2_A.jpg Graphic file (type jpg)
+<use U2_P2_A.jpg>
+Package pdftex.def Info: U2_P2_A.jpg  used on input line 271.
+(pdftex.def)             Requested size: 254.43878pt x 165.17981pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 324--325
+Underfull \hbox (badness 10000) in paragraph at lines 275--276
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 327--328
-
- []
-
-<U3_P1_A.png, id=50, 929.4725pt x 815.045pt>
-File: U3_P1_A.png Graphic file (type png)
-<use U3_P1_A.png>
-Package pdftex.def Info: U3_P1_A.png  used on input line 333.
-(pdftex.def)             Requested size: 212.03017pt x 185.9267pt.
+<U2_P2_B.jpg, id=46, 2938.98pt x 1610.015pt>
+File: U2_P2_B.jpg Graphic file (type jpg)
+<use U2_P2_B.jpg>
+Package pdftex.def Info: U2_P2_B.jpg  used on input line 280.
+(pdftex.def)             Requested size: 339.24956pt x 185.82341pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -546,62 +527,62 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[8 <./U3_P1_A.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 338--339
+[7 <./U2_P2_A.jpg> <./U2_P2_B.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 298--299
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 307--308
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 310--311
+
+ []
+
+<U3_P1_A.jpg, id=50, 3232.075pt x 899.36pt>
+File: U3_P1_A.jpg Graphic file (type jpg)
+<use U3_P1_A.jpg>
+Package pdftex.def Info: U3_P1_A.jpg  used on input line 315.
+(pdftex.def)             Requested size: 381.6517pt x 106.18942pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[8 <./U3_P1_A.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 320--321
 
  []
 
 <U3_P1_B.png, id=54, 958.58125pt x 696.6025pt>
 File: U3_P1_B.png Graphic file (type png)
 <use U3_P1_B.png>
-Package pdftex.def Info: U3_P1_B.png  used on input line 344.
+Package pdftex.def Info: U3_P1_B.png  used on input line 325.
 (pdftex.def)             Requested size: 212.03017pt x 154.0821pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 347--348
+Underfull \hbox (badness 10000) in paragraph at lines 328--329
 
  []
 
-<U3_P1_C.png, id=55, 1344.02126pt x 465.74pt>
-File: U3_P1_C.png Graphic file (type png)
-<use U3_P1_C.png>
-Package pdftex.def Info: U3_P1_C.png  used on input line 353.
-(pdftex.def)             Requested size: 212.03017pt x 73.46814pt.
+<U3_P1_C.jpg, id=55, 2183.15625pt x 846.16125pt>
+File: U3_P1_C.jpg Graphic file (type jpg)
+<use U3_P1_C.jpg>
+Package pdftex.def Info: U3_P1_C.jpg  used on input line 333.
+(pdftex.def)             Requested size: 254.43878pt x 98.61699pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 356--357
-
- []
-
-<U3_P1_D.png, id=56, 1130.2225pt x 630.355pt>
-File: U3_P1_D.png Graphic file (type png)
-<use U3_P1_D.png>
-Package pdftex.def Info: U3_P1_D.png  used on input line 362.
-(pdftex.def)             Requested size: 212.03017pt x 118.24898pt.
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[9 <./U3_P1_B.png> <./U3_P1_C.png> <./U3_P1_D.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 367--368
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
 
  []
 
-<U3_P1_E.png, id=60, 1676.2625pt x 337.26pt>
-File: U3_P1_E.png Graphic file (type png)
-<use U3_P1_E.png>
-Package pdftex.def Info: U3_P1_E.png  used on input line 373.
-(pdftex.def)             Requested size: 212.03017pt x 42.65657pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 377--378
-
- []
-
-<U3_P1_F.jpg, id=61, 2457.18pt x 1363.0925pt>
+<U3_P1_F.jpg, id=56, 2457.18pt x 1363.0925pt>
 File: U3_P1_F.jpg Graphic file (type jpg)
 <use U3_P1_F.jpg>
-Package pdftex.def Info: U3_P1_F.jpg  used on input line 383.
+Package pdftex.def Info: U3_P1_F.jpg  used on input line 341.
 (pdftex.def)             Requested size: 212.03017pt x 117.61885pt.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -610,25 +591,199 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[10 <./U3_P1_E.png> <./U3_P1_F.jpg>] (./PHY121_FinalProject_AbereniOpuiyo.aux)
+[9 <./U3_P1_B.png> <./U3_P1_C.jpg> <./U3_P1_F.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 351--352
+
+ []
+
+<U3_P2_A.jpg, id=60, 2168.1pt x 1329.96875pt>
+File: U3_P2_A.jpg Graphic file (type jpg)
+<use U3_P2_A.jpg>
+Package pdftex.def Info: U3_P2_A.jpg  used on input line 356.
+(pdftex.def)             Requested size: 254.43878pt x 156.07855pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 359--360
+
+ []
+
+<U3_P2_B.jpg, id=61, 2957.0475pt x 507.8975pt>
+File: U3_P2_B.jpg Graphic file (type jpg)
+<use U3_P2_B.jpg>
+Package pdftex.def Info: U3_P2_B.jpg  used on input line 363.
+(pdftex.def)             Requested size: 424.06033pt x 72.83339pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--368
+
+ []
+
+<U3_P2_C.jpg, id=62, 1671.24374pt x 2164.085pt>
+File: U3_P2_C.jpg Graphic file (type jpg)
+<use U3_P2_C.jpg>
+Package pdftex.def Info: U3_P2_C.jpg  used on input line 371.
+(pdftex.def)             Requested size: 127.21939pt x 164.70992pt.
+
+./PHY121_FinalProject_AbereniOpuiyo.tex:376: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.376 
+      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[10 <./U3_P2_A.jpg> <./U3_P2_B.jpg> <./U3_P2_C.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 405--406
+
+ []
+
+<U4_P1_A.jpg, id=66, 2396.955pt x 2150.0325pt>
+File: U4_P1_A.jpg Graphic file (type jpg)
+<use U4_P1_A.jpg>
+Package pdftex.def Info: U4_P1_A.jpg  used on input line 410.
+(pdftex.def)             Requested size: 254.43878pt x 228.20418pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[11 <./U4_P1_A.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 415--416
+
+ []
+
+<U4_P1_B.jpg, id=70, 2713.13625pt x 1851.91875pt>
+File: U4_P1_B.jpg Graphic file (type jpg)
+<use U4_P1_B.jpg>
+Package pdftex.def Info: U4_P1_B.jpg  used on input line 430.
+(pdftex.def)             Requested size: 296.84093pt x 202.60963pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 434--435
+
+ []
+
+
+./PHY121_FinalProject_AbereniOpuiyo.tex:439: LaTeX Error: File `' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.439     \includegraphics[width=0.5\textwidth]{}
+                                                  % Example of adding a figure
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[12 <./U4_P1_B.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
+
+ []
+
+<U4_P2_A.jpg, id=75, 2296.58pt x 1704.3675pt>
+File: U4_P2_A.jpg Graphic file (type jpg)
+<use U4_P2_A.jpg>
+Package pdftex.def Info: U4_P2_A.jpg  used on input line 454.
+(pdftex.def)             Requested size: 254.43878pt x 188.80733pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
+
+ []
+
+<U4_P2_B.jpg, id=76, 2993.1825pt x 1900.09875pt>
+File: U4_P2_B.jpg Graphic file (type jpg)
+<use U4_P2_B.jpg>
+Package pdftex.def Info: U4_P2_B.jpg  used on input line 463.
+(pdftex.def)             Requested size: 254.43878pt x 161.49176pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[13 <./U4_P2_A.jpg> <./U4_P2_B.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
+
+ []
+
+<U5_P1_A.jpg, id=80, 1969.3575pt x 1801.73125pt>
+File: U5_P1_A.jpg Graphic file (type jpg)
+<use U5_P1_A.jpg>
+Package pdftex.def Info: U5_P1_A.jpg  used on input line 497.
+(pdftex.def)             Requested size: 254.43878pt x 232.7762pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14 <./U5_P1_A.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 502--503
+
+ []
+
+<U5_P1_B.jpg, id=84, 2319.66624pt x 1926.19624pt>
+File: U5_P1_B.jpg Graphic file (type jpg)
+<use U5_P1_B.jpg>
+Package pdftex.def Info: U5_P1_B.jpg  used on input line 507.
+(pdftex.def)             Requested size: 339.24956pt x 281.68669pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 511--512
+
+ []
+
+<U5_P1_C.jpg, id=85, 2931.95375pt x 544.0325pt>
+File: U5_P1_C.jpg Graphic file (type jpg)
+<use U5_P1_C.jpg>
+Package pdftex.def Info: U5_P1_C.jpg  used on input line 516.
+(pdftex.def)             Requested size: 424.06033pt x 78.6793pt.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[15 <./U5_P1_B.jpg> <./U5_P1_C.jpg>] (./PHY121_FinalProject_AbereniOpuiyo.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 4594 strings out of 474116
- 71944 string characters out of 5734122
+ 4657 strings out of 474116
+ 72921 string characters out of 5734122
  1932187 words of memory out of 5000000
- 26911 multiletter control sequences out of 15000+600000
+ 26974 multiletter control sequences out of 15000+600000
  567703 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,12n,65p,348b,245s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,11n,65p,521b,245s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/Cellar/texlive/20240312_1/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on PHY121_FinalProject_AbereniOpuiyo.pdf (11 pages, 3524852 bytes).
+Output written on PHY121_FinalProject_AbereniOpuiyo.pdf (16 pages, 4388911 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 116 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
 
